@@ -30,8 +30,9 @@ export class TradeSyncService {
 
     do {
       page++;
-      const response = await this.collectionEventFetcherService.getCollectionTradesPaginated(
+      const response = await this.collectionEventFetcherService.getCollectionEventsPaginated(
         collection,
+        ['SALE'],
         { to: now },
         (page - 1) * limit,
         limit,

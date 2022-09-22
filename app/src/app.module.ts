@@ -6,6 +6,8 @@ import { CollectionEventFetcherModule } from './collection-event-fetcher/collect
 import { DATABASE_CONFIG } from './database-config';
 import { GmiCalculatorModule } from './gmi-calculator/gmi-calculator.module';
 import { InitialSyncModule } from './initial-sync/initial-sync.module';
+import { IncrementalSyncModule } from './incremental-sync/incremental-sync.module';
+import { SynchronizationManagerModule } from './synchronization-manager/synchronization-manager.module';
 
 @Module({
   imports: [
@@ -15,6 +17,8 @@ import { InitialSyncModule } from './initial-sync/initial-sync.module';
     TypeOrmModule.forRoot({
       ...DATABASE_CONFIG,
     }),
+    IncrementalSyncModule,
+    SynchronizationManagerModule,
   ],
   providers: [AppService],
 })

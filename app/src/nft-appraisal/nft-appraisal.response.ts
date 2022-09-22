@@ -4,6 +4,19 @@ export interface Collection {
   image_url: string;
 }
 
+export interface Trait {
+  id: string;
+  type: string;
+  value: string;
+  display_type: string;
+  max_value?: any;
+  count: number;
+  is_meta: boolean;
+  is_null: boolean;
+  image_url: string;
+  rarity: number;
+}
+
 export interface Change {
   wei_1d: number;
   wei_7d: number;
@@ -27,8 +40,8 @@ export interface LastSale {
   collection_id: string;
   wei: string;
   usd: number;
-  market_name: string;
   currency_id: string;
+  market_name: string;
   quantity: number;
   log_index?: number;
   tx_hash: string;
@@ -37,33 +50,23 @@ export interface LastSale {
   type: string;
 }
 
-export interface Trait {
-  type: string;
-  value: string;
-}
-
-export interface Asset {
+export interface AssetAppraisal {
+  collection: Collection;
   id: string;
   token_id: string;
   address: string;
   media_url: string;
   name: string;
-  owner: string;
-  collection: Collection;
+  traits: Trait[];
   appraisal: Appraisal;
   last_sale: LastSale;
   ask?: any;
-  traits: Trait[];
-  last_sale_appraisal_relative_delta?: number;
+  owner: string;
+  last_sale_appraisal_relative_delta: number;
 }
 
-export interface CollectionAssetsDto {
-  count: number;
-  assets: Asset[];
-}
-
-export interface CollectionAssetsResponse {
+export interface NFTAppraisalResponse {
   status: boolean;
   message: string;
-  data: CollectionAssetsDto;
+  data: AssetAppraisal[];
 }

@@ -1,8 +1,7 @@
 import { HttpService } from '@nestjs/axios';
 import { Injectable } from '@nestjs/common';
 import { lastValueFrom, map } from 'rxjs';
-
-import { Asset, WalletItemsResponse } from './wallet-items-response';
+import { AssetAppraisal, NFTAppraisalResponse } from './nft-appraisal.response';
 
 @Injectable()
 export class NftAppraisalService {
@@ -10,15 +9,19 @@ export class NftAppraisalService {
 
   public constructor(private readonly httpService: HttpService) {}
 
-  public async getWalletCollection(wallet: string): Promise<Asset[]> {
+  public async getAssetsAppraisal(assets: string[]): Promise<AssetAppraisal[]> {
     return await lastValueFrom(
       this.httpService
-        .get<WalletItemsResponse>(`${this.apiUrl}/wallets/${wallet}/assets/owned`, {
+        .get<NFTAppraisalResponse>(`${this.apiUrl}/assets`, {
+          params: {
+            include_asset_stats: true,
+            asset_id: assets,
+          },
           headers: {
             'x-api-key': process.env.UPSHOT_API_KEY,
           },
         })
-        .pipe(map(res => res.data.data.assets)),
+        .pipe(map(res => res.data.data)),
     );
   }
 }

@@ -10,8 +10,9 @@ export class CollectionEventFetcherService {
 
   public constructor(private readonly httpService: HttpService) {}
 
-  public async getCollectionTradesPaginated(
+  public async getCollectionEventsPaginated(
     collectionIdOrSlug: string,
+    events: string[],
     range: { from?: Date; to: Date },
     offset = 0,
     limit = 500,
@@ -20,11 +21,12 @@ export class CollectionEventFetcherService {
       this.httpService
         .get<CollectionEventsRequest>(`${this.apiUrl}/collections/${collectionIdOrSlug}/events`, {
           params: {
-            include_count: true,
-            type: 'SALE',
+            include_count: 'true',
+            type: events,
             limit,
             offset,
-            end: range.to.getTime(),
+            end: Math.round(range.to.getTime() / 1000),
+            ...(range.from ? { start: Math.round(range.from.getTime() / 1000) } : {}),
           },
           headers: {
             'x-api-key': process.env.UPSHOT_API_KEY,
