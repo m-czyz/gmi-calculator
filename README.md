@@ -1,70 +1,72 @@
-# Upshot BE Take-Home Task
+# Principles
+* GET gmi request should be super cheap to perform, and should not trigger any external requests and unnecessary recalculations
+* nft events synchronization and ranking factor recalculation should be done in the background, and should not interfere with gmi calculation
+* The synchronization mechanism should guarantee the data consistency and should ensure that the database state is as real-time as possible (see #Assumptions)
+* The system will store trades, wallets, and collection assets in the local database. Wallet entity will be used as rank parameters store, assets entity will store current owner and
+* The first, initial synchronization of all nft events related to CryptoPunks collection will take minutes to complete.
+  In addition, based on synchronized trades and assets, the system should be able to calculate initial rank factors, hence the gmi calculation is expected to be functional after initial synchronization completion
+* after the first synchronization, the system should periodically (as often as possible) process incremental synchronization of collection events to make sure that the system is up-to-date.
+  those incremental synchronizations should be based on `lastSynchronizationAt` timestamp
+* The architecture is prepared to be ready for the switch from pull-based synchronization to event-driven/push approach
 
-## The Task
 
-Build a scalable, realtime backend service that serves a simplified Upshot GMI app. The service should aggregate NFT event data and NFT appraisals and produce a score, that's updated in realtime. The service should accept an Ethereum wallet address and return both the wallet’s GMI score and all factors of the score including:
+# The problems and assumptions:
+* the volume of the past owners will be stored in the database.
+  Given the past owner becomes owner again, it will streamline the gmi calculation.
+  However, I'm not sure if that strategy is the best because theoretically speaking in the future amount of the past owners can,
+  let say - 100x, and most of them probably won't jump back on the bandwagon. Given that upshot's collection/events api could not filter by addresses,
+  this approach seems to be the only one that makes sense.
+* gmi calculation will also rank wallets against past owners' wallets
+* group/sum database queries are used to generate ranking factors in the initial synchronization,
+  and I'm not 100% sure if the field type `decimal(36,0)` is accurate and precise enough to operate without floating-point errors or roundings.
+* if the given wallet address is not found that could mean:
+    - wallet never owned anything from that collection or
+    - events related to this wallet e.g sale events, are not processed yet by the incremental synchronization
 
-* the number of assets they currently own
-* their total sale volume
-* their total return
-* their relative rank, compared to other wallets
+# Why this solution will not be truly real-time?
+The currently implemented synchronize mechanism is based on the assumption that:
+* assets appraisals are updated only when a given asset has been traded or transferred, and that is a huge simplification because other factors like off-chain events
+  like tweets from celebrities (e.g Elon Musk) or other events non-related to this collection could influence the collection appraisal.
+* to operate that system in a true real-time fashion, basically every GET GMI score request
+  would have to trigger a recalculation of all assets/wallets and that operation will be uber expensive
 
-The frontend to the app would look something like this:
+# Why this solution will not scale?
+Using rest api to frequently update such a big amount of data will never be a good choice, at least in the current upshot's API form.
+A poll strategy is not the best choice for this kind of system, a push strategy would be much better.
 
-![image info](./gmi-webpage.png)
+# How to scale it then?
+The only doable way I see right now is to change the approach from pull-synchronization
+to the push/reactive/event-driven one. E.g. to use upshot's webhook/queue to individually track each
+* asset appraisal change
+* asset trade/sale event
 
-which can be found at:
-https://upshot.xyz/gmi/
 
-address_or_ens: '0x4C8FF4E357C6626749559184C7877bDbC4D6815E',
-'x-api-key': 'UP-39ef673e560bde0b20e95358'
+and gradually recalculate affected assets and wallets scoring
 
-## What is GMI?
+The problem is, that API does not exist yet. Even tho if the push API will be there, it will definitely take longer
+than 6h to build such a complex system.
 
-“Gonna Make It” is a term used on crypto twitter to mark those entities destined for success. 
-This is also the name for Upshot’s NFT expertise rating scheme; the better NFT trades one makes and the more NFTs one owns, the higher their GMI score.
+# What could be done better?
+* wallet entity is used as a store of current ranking factors of a given wallet, it would be much nicer to have a ranking factor change log, and a way to materialize those into current
+  state - something like time-series with points or materialized view
+* ...tests
 
-For this simplified Upshot GMI app, GMI may be calculated as:
+# Upshot Api feedback:
+* timestamp fields have inconsistent types e.g. in collection/assets ep, the last sale timestamp is `numeric` and appraisal timestamp is `string`
 
-```
-1000 * (number_wallets  - rank( number_nfts_owned(w) * total_gains(w) + volume(w); w)) / number_wallets
-```
+# Setup
 
-where:
+* Copy/rename `env.example` file to `.env`
+* Copy/rename & configure `docker-compose.override.yml.example` file to `docker-compose.override.yml`
+* Run `docker-compose up -d`
+* Run `docker-compose restart`
+* Run `docker-compose exec gmi-service npm run migration:run`
+* Run `docker-compose exec gmi-service npm run cli initial-sync`
 
-`rank(f(w); w)` means the rank of wallet `w` 
-according to the function `f(w)` compared to all other wallets. 
-e.g. `rank(volume(0x1); 0x1) == 2` means that wallet `0x1` is ranked 2nd by volume across all wallets.
+# API
+* `GET /gmi/:address` - gmi ep
 
-`number_wallets` is the total number of wallets available to consider and is dynamic
+# Swagger
+http://localhost/api
 
-`number_nfts_owned(w)` is the number of NFTs currently owned by wallet `w`
-
-`total_gains(w)` are the total gains incurred by wallet `w` by trading NFTs. This equals `100 * (sell_eth(w) + portfolio_value(w) - volume(w)) / volume(w)`, where:
-
-`sell_eth(w)` is the gross amount of eth accrued by wallet `w` from selling nfts
-
-`portfolio_value(w)` is the sum appraised value of all nfts currently owned by wallet `w`
-
-`volume(w)` is the total amount of eth wallet `w` used to purchase nfts up until now
-
-## Tools
-
-You could use any NFT events API, including Upshot’s, to source NFT event data.
-
-Upshot’s API:
-https://docs.upshot.xyz/docs
-
-Reservoir (an alternative data source):
-https://docs.reservoir.tools/reference/overview
-
-Alchemy:
-https://docs.alchemy.com/reference/nft-api-endpoints
-
-## Notes
-
-1. Don’t bother creating a frontend.
-2. You cannot use any endpoint from Upshot that already includes any wallet’s GMI. You should, however, use Upshot’s API to source NFT appraisal data.
-3. For simplicity, you may ignore transactions that have not occurred in `eth`.
-4. You must include a README file in your response that includes a description and justification for all assumptions and design decision made, weaknesses of your approach, and ways you would improve it given more time and resources.
-5. You’ll be graded on accuracy of your results and the assumptions and design decisions you made.
+![image info](docs/swagger.png)

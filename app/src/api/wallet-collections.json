@@ -1,0 +1,896 @@
+{
+  "status": true,
+  "message": "Owned collections retrieved successfully",
+  "data": {
+    "collections": [
+      {
+        "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "slug": "boredapeyachtclub",
+        "name": "Bored Ape Yacht Club",
+        "contract_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+        "image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs=s2500",
+        "external_link": "http://www.boredapeyachtclub.com/",
+        "discord_url": "https://discord.gg/3P5K3dzgdB",
+        "twitter_username": "BoredApeYC",
+        "is_appraised": true,
+        "collection_gains_1d": 3.61,
+        "collection_gains_7d": 38.56,
+        "collection_gains_30d": 29.95,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "598000000000000000000",
+        "collection_assets_owned": 5,
+        "collection_portfolio_wei": "593553366019000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "71680000000000007000",
+          "usd": 114230.42,
+          "change": {
+            "wei_1d": 12.55,
+            "wei_7d": 12.55,
+            "wei_30d": 19.47,
+            "usd_1d": 4.54,
+            "usd_7d": 7.64,
+            "usd_30d": -3.07
+          }
+        },
+        "market_cap": {
+          "wei": "1265287170896352000000000",
+          "usd": 1824517452.3900008,
+          "change": {
+            "wei_1d": 50.12,
+            "wei_7d": 63.24,
+            "wei_30d": 34.81,
+            "usd_1d": 51.78,
+            "usd_7d": 76.32,
+            "usd_30d": 47.81
+          }
+        },
+        "volume": {
+          "wei_1d": "402572200000000000000",
+          "wei_7d": "3193753900000000000000",
+          "wei_30d": "23010862600000000000000",
+          "wei_all_time": "704735856990000800000000",
+          "usd_1d": 701886.6564546893,
+          "usd_7d": 5408013.029337472,
+          "usd_30d": 38695911.76323662,
+          "usd_all_time": 1210485677.56,
+          "change": {
+            "wei_1d": -51.77,
+            "wei_7d": 28.82,
+            "wei_30d": -33.7,
+            "usd_1d": -52.49,
+            "usd_7d": 37.67,
+            "usd_30d": -41.67
+          }
+        },
+        "average": {
+          "wei_1d": "80514440000000000000",
+          "wei_7d": "77896436585365853658",
+          "wei_30d": "86183005992509363295",
+          "wei_all_time": "32213551080586950000",
+          "usd_1d": 140377.33129093787,
+          "usd_7d": 131902.75681310907,
+          "usd_30d": 144928.50847654164,
+          "usd_all_time": 55331.43,
+          "change": {
+            "wei_1d": -3.55,
+            "wei_7d": 3.06,
+            "wei_30d": -20.44,
+            "usd_1d": -4.98,
+            "usd_7d": 10.14,
+            "usd_30d": -30
+          }
+        },
+        "num_sales": {
+          "num_1d": 5,
+          "num_7d": 41,
+          "num_30d": 267,
+          "change": {
+            "num_1d": -50,
+            "num_7d": 25,
+            "num_30d": -16.67
+          }
+        },
+        "mape": 18.1,
+        "num_assets": 10000,
+        "num_owners": 6550,
+        "avg_appraisal": {
+          "wei": "108952139435857100000",
+          "usd": 176621.33,
+          "change": {
+            "wei_1d": 4.18,
+            "wei_7d": -7.57,
+            "wei_30d": -15.51,
+            "usd_1d": 11.18,
+            "usd_7d": -10.27,
+            "usd_30d": 0.74
+          }
+        },
+        "percent_listed_near_floor": 0.06
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "slug": "otherdeed",
+        "name": "Otherdeed for Otherside",
+        "contract_address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
+        "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/E_XVuM8mX1RuqBym2JEX4RBg_sj9KbTFBAi0qU4eBr2E3VCC0bwpWrgHqBOaWsKGTf4-DBseuZJGvsCVBnzLjxqgq7rAb_93zkZ-=s2500",
+        "external_link": "https://otherside.xyz",
+        "discord_url": "https://discord.gg/the-otherside",
+        "twitter_username": "othersidemeta",
+        "is_appraised": true,
+        "collection_gains_1d": -2.55,
+        "collection_gains_7d": -15.2,
+        "collection_gains_30d": 525.68,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "259000000000000000000",
+        "collection_assets_owned": 21,
+        "collection_portfolio_wei": "151830158525000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "1699000000000000100",
+          "usd": 2949.94,
+          "change": {
+            "wei_1d": 15.58,
+            "wei_7d": 8842.11,
+            "wei_30d": 8842.11,
+            "usd_1d": 14.82,
+            "usd_7d": 9194.08,
+            "usd_30d": 7718.55
+          }
+        },
+        "market_cap": {
+          "wei": "359268661787162000000000",
+          "usd": 519700925.08000976,
+          "change": {
+            "wei_1d": -2.68,
+            "wei_7d": 422.23,
+            "wei_30d": 280.43,
+            "usd_1d": -0.64,
+            "usd_7d": 481.08,
+            "usd_30d": 317.79
+          }
+        },
+        "volume": {
+          "wei_1d": "20821260000000000000",
+          "wei_7d": "20821260000000000000",
+          "wei_30d": "20821260000000000000",
+          "wei_all_time": "285950855949999600000000",
+          "usd_1d": 36459.056839716,
+          "usd_7d": 36459.056839716,
+          "usd_30d": 36459.056839716,
+          "usd_all_time": 499422062.41,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "average": {
+          "wei_1d": "4164252000000000000",
+          "wei_7d": "4164252000000000000",
+          "wei_30d": "4164252000000000000",
+          "wei_all_time": "6808840058813713000",
+          "usd_1d": 7291.811367943201,
+          "usd_7d": 7291.811367943201,
+          "usd_30d": 7291.811367943201,
+          "usd_all_time": 11891.85,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "num_sales": {
+          "num_1d": 5,
+          "num_7d": 5,
+          "num_30d": 5,
+          "change": {
+            "num_1d": 0,
+            "num_7d": 0,
+            "num_30d": 0
+          }
+        },
+        "mape": 1210,
+        "num_assets": 100000,
+        "num_owners": 39146,
+        "avg_appraisal": {
+          "wei": "3144611447958289905",
+          "usd": 5097.7,
+          "change": {
+            "wei_1d": 2.01,
+            "wei_7d": 16.62,
+            "wei_30d": -58.81,
+            "usd_1d": 8.86,
+            "usd_7d": 13.22,
+            "usd_30d": -50.89
+          }
+        },
+        "percent_listed_near_floor": 0.06
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "slug": "mutant-ape-yacht-club",
+        "name": "Mutant Ape Yacht Club",
+        "contract_address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "description": "The MUTANT APE YACHT CLUB is a collection of up to 20,000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM or by minting a Mutant Ape in the public sale.",
+        "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/5c-HcdLMinTg3LvEwXYZYC-u5nN22Pn5ivTPYA4pVEsWJHU1rCobhUlHSFjZgCHPGSmcGMQGCrDCQU8BfSfygmL7Uol9MRQZt6-gqA=s2500",
+        "external_link": null,
+        "discord_url": null,
+        "twitter_username": null,
+        "is_appraised": true,
+        "collection_gains_1d": 10.98,
+        "collection_gains_7d": -0.92,
+        "collection_gains_30d": -2.59,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "86000000000000000000",
+        "collection_assets_owned": 4,
+        "collection_portfolio_wei": "68122875240000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "11289999999999999000",
+          "usd": 17991.93,
+          "change": {
+            "wei_1d": 9.29,
+            "wei_7d": 13.01,
+            "wei_30d": 13.01,
+            "usd_1d": 1.52,
+            "usd_7d": 8.09,
+            "usd_30d": -8.31
+          }
+        },
+        "market_cap": {
+          "wei": "302242434969835000000000",
+          "usd": 426738659.1899989,
+          "change": {
+            "wei_1d": 5.57,
+            "wei_7d": 1.25,
+            "wei_30d": -12.04,
+            "usd_1d": 7.86,
+            "usd_7d": 13.32,
+            "usd_30d": -1.02
+          }
+        },
+        "volume": {
+          "wei_1d": "200745800000000000000",
+          "wei_7d": "1720278370000000000000",
+          "wei_30d": "11001351040000000000000",
+          "wei_all_time": "468085838960000100000000",
+          "usd_1d": 348484.26226477034,
+          "usd_7d": 2920530.0336462986,
+          "usd_30d": 18604800.381551184,
+          "usd_all_time": 809784136.58,
+          "change": {
+            "wei_1d": -64.56,
+            "wei_7d": 29.38,
+            "wei_30d": -67.04,
+            "usd_1d": -65.06,
+            "usd_7d": 38.1,
+            "usd_30d": -71.19
+          }
+        },
+        "average": {
+          "wei_1d": "15441984615384615384",
+          "wei_7d": "13032411893939393939",
+          "wei_30d": "14494533649538866930",
+          "wei_all_time": "14024623650527342000",
+          "usd_1d": 26806.481712674642,
+          "usd_7d": 22125.227527623472,
+          "usd_30d": 24512.253467129358,
+          "usd_all_time": 24262.47,
+          "change": {
+            "wei_1d": 25.39,
+            "wei_7d": 9.48,
+            "wei_30d": 6.49,
+            "usd_1d": 23.64,
+            "usd_7d": 16.85,
+            "usd_30d": -6.92
+          }
+        },
+        "num_sales": {
+          "num_1d": 13,
+          "num_7d": 132,
+          "num_30d": 759,
+          "change": {
+            "num_1d": -71.74,
+            "num_7d": 18.18,
+            "num_30d": -69.05
+          }
+        },
+        "mape": 8.01,
+        "num_assets": 19425,
+        "num_owners": 13137,
+        "avg_appraisal": {
+          "wei": "15106438783391505791",
+          "usd": 24488.91,
+          "change": {
+            "wei_1d": -5.94,
+            "wei_7d": 5.33,
+            "wei_30d": 5.7,
+            "usd_1d": 0.38,
+            "usd_7d": 2.26,
+            "usd_30d": 26.02
+          }
+        },
+        "percent_listed_near_floor": 0.07
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "slug": "lil-heroes-by-edgar-plans",
+        "name": "Lil' Heroes by Edgar Plans",
+        "contract_address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "description": "Edgar Plans is coming to the metaverse! The Spanish contemporary artist has been designing a collection of 7,777 pieces to reflect his work of the past decade. Meet Lil’ Heroes, the mouse-eared mischievous characters dressed in a huge variety of unique hand-drawn attributes. Edgar Plans (born 1977 in Madrid) is a spanish contemporary visual artist. Painter from a very young age, he delivers pure artistic expression in childlike art pieces. His vivid and raw cartoons glean elements from the works of american icons Jean-Michel Basquiat and Keith Haring. Currently displayed in the Moscow Museum of Modern Art, his artworks are sought after around the world, ending up breaking records in auction houses like Christie’s.",
+        "image_url": "https://lh3.googleusercontent.com/4WmDJuV477K7gHdjHS0VffmQ0IfaMAaB7HVFtCU8bzx9hUMmlJJT7b-SlNO34cuzb6xNkq1AmaSBftryMVf54a9Nq0J865BimGwHKCY=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/4WmDJuV477K7gHdjHS0VffmQ0IfaMAaB7HVFtCU8bzx9hUMmlJJT7b-SlNO34cuzb6xNkq1AmaSBftryMVf54a9Nq0J865BimGwHKCY=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/L4MTTZeq4gbN1Y0UlcMr6BwW5WKG_2BV6wPt10EmX1CM6pNBxIYRxfNOhPz3gpuvoFmmLySx3guClkJYP_rTHHH5csgPBTapY5-L=s2500",
+        "external_link": "https://lilheroes.io/",
+        "discord_url": "https://discord.gg/invite/lilheroes",
+        "twitter_username": null,
+        "is_appraised": true,
+        "collection_gains_1d": -5.2,
+        "collection_gains_7d": 19.89,
+        "collection_gains_30d": 867.86,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "159000000000000000000",
+        "collection_assets_owned": 13,
+        "collection_portfolio_wei": "29866404131000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "269000000000000000",
+          "usd": 428.68,
+          "change": {
+            "wei_1d": 36.55,
+            "wei_7d": 36.55,
+            "wei_30d": 40.1,
+            "usd_1d": 26.84,
+            "usd_7d": 30.6,
+            "usd_30d": 13.68
+          }
+        },
+        "market_cap": {
+          "wei": "3281596029934000000000",
+          "usd": 5129087.319999989,
+          "change": {
+            "wei_1d": 3.97,
+            "wei_7d": 78.01,
+            "wei_30d": 118.35,
+            "usd_1d": 5.93,
+            "usd_7d": 94.51,
+            "usd_30d": 122.77
+          }
+        },
+        "volume": {
+          "wei_1d": "1544500000000000000",
+          "wei_7d": "1544500000000000000",
+          "wei_30d": "1544500000000000000",
+          "wei_all_time": "16269110700000008000000",
+          "usd_1d": 0,
+          "usd_7d": 0,
+          "usd_30d": 0,
+          "usd_all_time": 27942320.83,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "average": {
+          "wei_1d": "386125000000000000",
+          "wei_7d": "386125000000000000",
+          "wei_30d": "386125000000000000",
+          "wei_all_time": "1859326937142857000",
+          "usd_1d": 0,
+          "usd_7d": 0,
+          "usd_30d": 0,
+          "usd_all_time": 3193.41,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "num_sales": {
+          "num_1d": 4,
+          "num_7d": 4,
+          "num_30d": 4,
+          "change": {
+            "num_1d": 0,
+            "num_7d": 0,
+            "num_30d": 0
+          }
+        },
+        "mape": 1210,
+        "num_assets": 7777,
+        "num_owners": 3941,
+        "avg_appraisal": {
+          "wei": "448031399539153915",
+          "usd": 726.3,
+          "change": {
+            "wei_1d": 5.32,
+            "wei_7d": 1.26,
+            "wei_30d": -15.97,
+            "usd_1d": 12.4,
+            "usd_7d": -1.7,
+            "usd_30d": 0.19
+          }
+        },
+        "percent_listed_near_floor": 0.01
+      },
+      {
+        "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+        "slug": "bored-ape-kennel-club",
+        "name": "Bored Ape Kennel Club",
+        "contract_address": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+        "description": "It gets lonely in the swamp sometimes. That's why every ape should have a four-legged companion. To curl up at your feet. To bring you a beer. To fire a missile launcher at that bastard Jimmy the Monkey. That's why we've started the Bored Ape Kennel Club, and why we're offering up a dog NFT for adoption to every single member of the BAYC – for free (you only pay gas). Any royalties we accrue on secondary sales will be donated to charity. Learn more at: http://boredapeyachtclub.com/#/kennel-club",
+        "image_url": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/o7jTd9uDpVGbHOCgpHvId3c-O6clNo-DnvrJ0fSaZOH9fs4Wj2W1WZL6_RlfGk0a8gRb0GXgiMuwdUZVB0cn3zIM_1NPC9thgdGXJA=s2500",
+        "external_link": "http://boredapeyachtclub.com/#/kennel-club",
+        "discord_url": "https://discord.gg/wjH7hGz2yS",
+        "twitter_username": "boredapeyc",
+        "is_appraised": true,
+        "collection_gains_1d": -9.12,
+        "collection_gains_7d": -10.91,
+        "collection_gains_30d": -18.2,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "19000000000000000000",
+        "collection_assets_owned": 2,
+        "collection_portfolio_wei": "11140852019000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "6099000000000000200",
+          "usd": 9719.47,
+          "change": {
+            "wei_1d": 21.98,
+            "wei_7d": 21.98,
+            "wei_30d": 21.98,
+            "usd_1d": 13.31,
+            "usd_7d": 16.66,
+            "usd_30d": -1.03
+          }
+        },
+        "market_cap": {
+          "wei": "76750005910501000000000",
+          "usd": 116826737.61999977,
+          "change": {
+            "wei_1d": -2.48,
+            "wei_7d": 12.26,
+            "wei_30d": -3.79,
+            "usd_1d": -0.91,
+            "usd_7d": 22.36,
+            "usd_30d": 0.27
+          }
+        },
+        "volume": {
+          "wei_1d": "57064950000000000000",
+          "wei_7d": "306337060000000000000",
+          "wei_30d": "2978523320000000000000",
+          "wei_all_time": "108294361669999840000000",
+          "usd_1d": 97669.82784976799,
+          "usd_7d": 511256.26520913234,
+          "usd_30d": 5025340.1464557415,
+          "usd_all_time": 185475089.7,
+          "change": {
+            "wei_1d": 51.09,
+            "wei_7d": -0.96,
+            "wei_30d": -29.89,
+            "usd_1d": 47.8,
+            "usd_7d": 6.74,
+            "usd_30d": -39.2
+          }
+        },
+        "average": {
+          "wei_1d": "6340550000000000000",
+          "wei_7d": "6382022083333333333",
+          "wei_30d": "7942728853333333333",
+          "wei_all_time": "5133650707276598400",
+          "usd_1d": 10852.203094418664,
+          "usd_7d": 10651.172191856924,
+          "usd_30d": 13400.90705721531,
+          "usd_all_time": 8792.37,
+          "change": {
+            "wei_1d": 0.72,
+            "wei_7d": -0.96,
+            "wei_30d": -14.32,
+            "usd_1d": -1.46,
+            "usd_7d": 6.74,
+            "usd_30d": -25.69
+          }
+        },
+        "num_sales": {
+          "num_1d": 9,
+          "num_7d": 48,
+          "num_30d": 375,
+          "change": {
+            "num_1d": 50,
+            "num_7d": 0,
+            "num_30d": -18.18
+          }
+        },
+        "mape": 480.46,
+        "num_assets": 9602,
+        "num_owners": 5635,
+        "avg_appraisal": {
+          "wei": "6789299427525932097",
+          "usd": 11006.07,
+          "change": {
+            "wei_1d": 38.33,
+            "wei_7d": 6.56,
+            "wei_30d": 20.1,
+            "usd_1d": 47.62,
+            "usd_7d": 3.45,
+            "usd_30d": 43.19
+          }
+        },
+        "percent_listed_near_floor": 0.04
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "slug": "10ktf-gucci-grail",
+        "name": "10KTF Gucci Grail",
+        "contract_address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "description": "In constant pursuit of precious wonders that go beyond the confines of time and space, Creative Director Alessandro Michele takes a trip to New Tokyo – a floating city in a parallel universe. Within this metropolis, he meets the world-renowned digital artisan Wagmi-san, legendary for crafting coveted items in his 10KTF shop. As it so often happens when creativity encounters curiosity, something unimaginable becomes a reality, ushering in a new era of creativity across dimensions.",
+        "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/x_4lABNgrwuONtNPfy3ErSRc_LC0m0Aq-3H6N3i6xagqitzcne1uDjkrjEhbC6s9Cp19xPbSQGxspyD-LbkQ6ftrjALmw1WyChDnFA=s2500",
+        "external_link": "https://10ktf.com/shop",
+        "discord_url": null,
+        "twitter_username": null,
+        "is_appraised": true,
+        "collection_gains_1d": 8.64,
+        "collection_gains_7d": -2.24,
+        "collection_gains_30d": 51.59,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "0",
+        "collection_assets_owned": 6,
+        "collection_portfolio_wei": "6304222771000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "759800000000000000",
+          "usd": 1217.56,
+          "change": {
+            "wei_1d": 8.54,
+            "wei_7d": 8.54,
+            "wei_30d": 51.96,
+            "usd_1d": 0.83,
+            "usd_7d": 10.15,
+            "usd_30d": 25.35
+          }
+        },
+        "market_cap": {
+          "wei": "4548147885673000000000",
+          "usd": 7108689.309999973,
+          "change": {
+            "wei_1d": 5.48,
+            "wei_7d": 15.94,
+            "wei_30d": -10.73,
+            "usd_1d": 7.47,
+            "usd_7d": 26.69,
+            "usd_30d": -8.92
+          }
+        },
+        "volume": {
+          "wei_1d": "4880000000000000000",
+          "wei_7d": "28433300000000000000",
+          "wei_30d": "203955210000000000000",
+          "wei_all_time": "4411688330000000000000",
+          "usd_1d": 8422.450695031412,
+          "usd_7d": 47687.28224091257,
+          "usd_30d": 336743.3748083256,
+          "usd_all_time": 7555871.57,
+          "change": {
+            "wei_1d": 17.28,
+            "wei_7d": -44.33,
+            "wei_30d": 26.34,
+            "usd_1d": 15.35,
+            "usd_7d": -39.68,
+            "usd_30d": 10.58
+          }
+        },
+        "average": {
+          "wei_1d": "976000000000000000",
+          "wei_7d": "888540625000000000",
+          "wei_30d": "999780441176470588",
+          "wei_all_time": "1512406009598902300",
+          "usd_1d": 1684.4901390062823,
+          "usd_7d": 1490.227570028518,
+          "usd_30d": 1650.7028176878707,
+          "usd_all_time": 2590.29,
+          "change": {
+            "wei_1d": 17.28,
+            "wei_7d": 0.21,
+            "wei_30d": 26.34,
+            "usd_1d": 15.35,
+            "usd_7d": 8.57,
+            "usd_30d": 10.58
+          }
+        },
+        "num_sales": {
+          "num_1d": 5,
+          "num_7d": 32,
+          "num_30d": 204,
+          "change": {
+            "num_1d": 0,
+            "num_7d": -44.44,
+            "num_30d": 0
+          }
+        },
+        "mape": 1210,
+        "num_assets": 4253,
+        "num_owners": 3101,
+        "avg_appraisal": {
+          "wei": "932129498667528803",
+          "usd": 1511.07,
+          "change": {
+            "wei_1d": -8.55,
+            "wei_7d": 1.61,
+            "wei_30d": -27.18,
+            "usd_1d": -2.41,
+            "usd_7d": -1.36,
+            "usd_30d": -13.18
+          }
+        },
+        "percent_listed_near_floor": 0.03
+      },
+      {
+        "id": "0xc3ae6e60a37a5f7d6d68e60c45b1ae50da233bd4",
+        "slug": "10ktf-gucci-grail-mint-pass",
+        "name": "10KTF: GUCCI GRAIL MINT PASS",
+        "contract_address": "0xc3ae6e60a37a5f7d6d68e60c45b1ae50da233bd4",
+        "description": "10KTF Gucci Grail Mint Pass is now expired and cannot be redeemed for the Gucci Grail Collection. For the main Gucci Grail collection, please visit: [10KTF Gucci Grail](https://opensea.io/collection/10ktf-gucci-grail)",
+        "image_url": "https://lh3.googleusercontent.com/1M3Fu0-V2g9-WbQsxs5KAnx8gIXLPUDi8Y7gl8X4V-yszvdje4QNwYFVnROl4CkdjcpNKEgm_Ng7w1E3Xm-QvI5L0QL__D_x6qMsAQ=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/1M3Fu0-V2g9-WbQsxs5KAnx8gIXLPUDi8Y7gl8X4V-yszvdje4QNwYFVnROl4CkdjcpNKEgm_Ng7w1E3Xm-QvI5L0QL__D_x6qMsAQ=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/FKztjZs-OZNcZ0-LaBLaW-E2Lerg0PtmklC5J62wG_INwE4XjAbwUScFRBPlh-higS_xPuICI7JzOTsigWlZDjoK6e2xIiANvqWzJaw=s2500",
+        "external_link": null,
+        "discord_url": "https://discord.gg/10ktfshop",
+        "twitter_username": null,
+        "is_appraised": true,
+        "collection_gains_1d": 0,
+        "collection_gains_7d": -9.28,
+        "collection_gains_30d": -34.36,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "6000000000000000000",
+        "collection_assets_owned": 4,
+        "collection_portfolio_wei": "472556628000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "140000000000000000",
+          "usd": 241.25,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 5.55,
+            "usd_7d": 5.19,
+            "usd_30d": -6.4
+          }
+        },
+        "market_cap": {
+          "wei": "130224777000000000",
+          "usd": 203.54,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": -15.55,
+            "wei_30d": -74.66,
+            "usd_1d": 1.88,
+            "usd_7d": -7.72,
+            "usd_30d": -74.15
+          }
+        },
+        "volume": {
+          "wei_1d": "0",
+          "wei_7d": "0",
+          "wei_30d": "407290000000000000",
+          "wei_all_time": "2821125539999996400000",
+          "usd_1d": 0,
+          "usd_7d": 0,
+          "usd_30d": 767.8389873227322,
+          "usd_all_time": 4942230.18,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": -100,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": -100
+          }
+        },
+        "average": {
+          "wei_1d": "0",
+          "wei_7d": "0",
+          "wei_30d": "135763333333333333",
+          "wei_all_time": "1263945134408599500",
+          "usd_1d": 0,
+          "usd_7d": 0,
+          "usd_30d": 255.9463291075774,
+          "usd_all_time": 2214.26,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": -100,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": -100
+          }
+        },
+        "num_sales": {
+          "num_1d": 0,
+          "num_7d": 0,
+          "num_30d": 3,
+          "change": {
+            "num_1d": 0,
+            "num_7d": 0,
+            "num_30d": -100
+          }
+        },
+        "mape": 1210,
+        "num_assets": 1,
+        "num_owners": 1,
+        "avg_appraisal": {
+          "wei": "118139157000000000",
+          "usd": 191.51,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 9.28,
+            "wei_30d": 34.36,
+            "usd_1d": 6.72,
+            "usd_7d": 6.09,
+            "usd_30d": 60.2
+          }
+        },
+        "percent_listed_near_floor": null
+      },
+      {
+        "id": "0x8eaaabe11896bd09fb852d3a5248004ec44bc793",
+        "slug": "refractions-xyz",
+        "name": "Refractions",
+        "contract_address": "0x8eaaabe11896bd09fb852d3a5248004ec44bc793",
+        "description": "Airdrops from [Captain Murray](https://opensea.io/captainmurray) to [CryptoFish.io](https://cryptofish.io) members and beyond. Visit [refractions.xyz](https://refractions.xyz) for more. ",
+        "image_url": "https://lh3.googleusercontent.com/bpgttQDPj_xaYePgjWwOIGj6Y-ajGll7zkYsB7xewqXQKy8LLr01TFyIo7PVu5W3paOGYmJVp72-WPB8CBazWbddhgmurGX2sBHLWA=s120",
+        "original_image_url": "https://lh3.googleusercontent.com/bpgttQDPj_xaYePgjWwOIGj6Y-ajGll7zkYsB7xewqXQKy8LLr01TFyIo7PVu5W3paOGYmJVp72-WPB8CBazWbddhgmurGX2sBHLWA=s120",
+        "banner_image_url": "https://lh3.googleusercontent.com/zi17r_6GVhmK8OcUJCAEaPoxTxgC2W5dn92sO79sNeGcIdD0N_O3lDh_JEwlpaqE9A791xCp6Hbbcu8F6E_v_AyKWVadq62zthVRyQ=s2500",
+        "external_link": "https://refractions.xyz",
+        "discord_url": null,
+        "twitter_username": "muratsayginer",
+        "is_appraised": true,
+        "collection_gains_1d": 0.03,
+        "collection_gains_7d": -10.33,
+        "collection_gains_30d": -15.93,
+        "collection_gains_all_time": 0,
+        "collection_volume_wei_1d": "0",
+        "collection_volume_wei_7d": "0",
+        "collection_volume_wei_30d": "0",
+        "collection_volume_wei_all_time": "0",
+        "collection_assets_owned": 1,
+        "collection_portfolio_wei": "26900000000000000",
+        "collection_assets_preview": null,
+        "floor": {
+          "wei": "26890000000000000",
+          "usd": 47.32,
+          "change": {
+            "wei_1d": 79.27,
+            "wei_7d": 168.9,
+            "wei_30d": 168.9,
+            "usd_1d": 82,
+            "usd_7d": 204.7,
+            "usd_30d": 148.27
+          }
+        },
+        "market_cap": {
+          "wei": "466714373000000000",
+          "usd": 729.4399999999999,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": -6.93,
+            "wei_30d": -17.65,
+            "usd_1d": 1.89,
+            "usd_7d": 1.7,
+            "usd_30d": -15.97
+          }
+        },
+        "volume": {
+          "wei_1d": "263890000000000000",
+          "wei_7d": "268890000000000000",
+          "wei_30d": "611690000000000000",
+          "wei_all_time": "15187150000000000000",
+          "usd_1d": 455.68993639191257,
+          "usd_7d": 463.29741288113894,
+          "usd_30d": 1044.5293860770112,
+          "usd_all_time": 26084.05,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "average": {
+          "wei_1d": "43981666666666666",
+          "wei_7d": "38412857142857142",
+          "wei_30d": "38230625000000000",
+          "wei_all_time": "89864792899408270",
+          "usd_1d": 75.94832273198543,
+          "usd_7d": 66.18534469730557,
+          "usd_30d": 65.2830866298132,
+          "usd_all_time": 154.34,
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 0,
+            "wei_30d": 0,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "num_sales": {
+          "num_1d": 6,
+          "num_7d": 7,
+          "num_30d": 16,
+          "change": {
+            "num_1d": 0,
+            "num_7d": 0,
+            "num_30d": 0
+          }
+        },
+        "mape": 11.8,
+        "num_assets": 65,
+        "num_owners": 24,
+        "avg_appraisal": {
+          "wei": "74392222166666666",
+          "usd": 120.6,
+          "change": {
+            "wei_1d": -76.51,
+            "wei_7d": -74.21,
+            "wei_30d": -60.12,
+            "usd_1d": -74.93,
+            "usd_7d": -74.96,
+            "usd_30d": -52.45
+          }
+        },
+        "percent_listed_near_floor": 0.09
+      }
+    ]
+  }
+}

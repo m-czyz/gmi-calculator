@@ -1,0 +1,4144 @@
+{
+  "status": true,
+  "message": "Owned assets retrieved successfully",
+  "data": {
+    "assets": [
+      {
+        "id": "0xec516efecd8276efc608ecd958a4eab8618c61e8/400",
+        "token_id": "400",
+        "address": "0xec516efecd8276efc608ecd958a4eab8618c61e8",
+        "media_url": "https://www.slackerduckpond.com/assets/400.png",
+        "name": "Slacker Duck #400",
+        "collection": {
+          "id": "0xec516efecd8276efc608ecd958a4eab8618c61e8",
+          "name": "Slacker Duck Pond",
+          "image_url": "https://lh3.googleusercontent.com/rMPPCZUt6jeDD9kYSyqKxk0R7-T8NLcEhVECaN43VwNshdWc10ORQRn8hs4Pet0Cie7WWWCexLbuSYOS9ASmn8X7RqrPlrkbiqC0=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "14720950000000000",
+          "usd": 0,
+          "mape": "3528.03",
+          "change": {
+            "wei_1d": -4.78,
+            "wei_7d": -30.42,
+            "wei_30d": -15.88,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xec516efecd8276efc608ecd958a4eab8618c61e8/400",
+          "timestamp": 1624666727,
+          "collection_id": "0xec516efecd8276efc608ecd958a4eab8618c61e8",
+          "wei": "35000000000000000",
+          "usd": 66.39827041568415,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 118,
+          "tx_hash": "0x41ca81ed3fb91ac0718a8a150349798c06b3c60331f2fc837b0221d6e28d9308",
+          "to_address": "0x7Ac9f416A62Aed1d5f9847F3665390033B4C1C8d",
+          "from_address": "0x9B8b24e3D406627984eB3782f358Ac00431Bd93a",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.377564,
+        "traits": [
+          {
+            "type": "Plumage",
+            "value": "Off-White"
+          },
+          {
+            "type": "Eyes",
+            "value": "Eyelashes Extensions"
+          },
+          {
+            "type": "Background",
+            "value": "Unmellow Yellow"
+          },
+          {
+            "type": "Beak",
+            "value": "Bill"
+          },
+          {
+            "type": "Hair",
+            "value": "Blonde Ponytail"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/38184760232578771845124",
+        "token_id": "38184760232578771845124",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/fTNgL6SsJDFVMLxEuvH7iA5vbKuPttTZKkuvMGAn61uwEsOGqOdi9EqFc2R9mkvOCPIFFRG8u2kn4RHwAzZqd9fv_BU00LV7ubjzlz0",
+        "name": "Gucci Grail Ape #2070",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1351035143000000000",
+          "usd": 2111.65,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.75,
+            "wei_7d": 58.61,
+            "wei_30d": 21.07,
+            "usd_1d": 10.8,
+            "usd_7d": 73.32,
+            "usd_30d": 23.52
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Ape - Fur",
+            "value": "Pink"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Bored Ape Yacht Club"
+          },
+          {
+            "type": "Ape - Eyes",
+            "value": "Eyepatch"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "Ape - Background",
+            "value": "Aquamarine"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Purple"
+          },
+          {
+            "type": "Ape - Mouth",
+            "value": "Bored Cigarette"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/38184760232578771845123",
+        "token_id": "38184760232578771845123",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/LVuHBdx_duFl1mfWc9Txm_7OKMeRsOck-0ZbjirvV8oMAMiLxvRXgFD5AyTwXXd-KeVFA7ZHlGyPFsdOfyHH7h_DqQb_0C5mecP59g",
+        "name": "Gucci Grail Ape #2070",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1345756309000000000",
+          "usd": 2103.4,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.75,
+            "wei_7d": 58.61,
+            "wei_30d": 21.07,
+            "usd_1d": 10.8,
+            "usd_7d": 73.32,
+            "usd_30d": 23.52
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Ape - Eyes",
+            "value": "Eyepatch"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "Ape - Background",
+            "value": "Aquamarine"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Red"
+          },
+          {
+            "type": "Ape - Mouth",
+            "value": "Bored Cigarette"
+          },
+          {
+            "type": "Ape - Fur",
+            "value": "Pink"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Bored Ape Yacht Club"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/161888625990875024982021",
+        "token_id": "161888625990875024982021",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/LmV7iE8rDlT0vv-d2XqqeilVv0EvNpG3bWq9KWHVL693qxPecsIkjPPAK16W9lXWxTECAQFIh3DdNPZroIrPxRWGVDANE3pcoGVj7w",
+        "name": "Gucci Grail Ape #8776",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1229466527000000000",
+          "usd": 1921.64,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.68,
+            "wei_7d": 37.27,
+            "wei_30d": 4.79,
+            "usd_1d": 10.73,
+            "usd_7d": 50,
+            "usd_30d": 6.91
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Ape - Earring",
+            "value": "Gold Stud"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Bored Ape Yacht Club"
+          },
+          {
+            "type": "Ape - Fur",
+            "value": "Dark Brown"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "Ape - Eyes",
+            "value": "Sad"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Blue"
+          },
+          {
+            "type": "Ape - Background",
+            "value": "Army Green"
+          },
+          {
+            "type": "Ape - Mouth",
+            "value": "Bored Cigarette"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/161888625990875024982019",
+        "token_id": "161888625990875024982019",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/HEWcord6cC0z9us7yZFgH57WCaYVM_apLcFKoOQB7qQ4iDwmZ8-GsoCCcbGO6E1LKylgb4kAwyQ4L-Dha14iLDIth8XmjO41F8hYeA",
+        "name": "Gucci Grail Ape #8776",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1237145359000000000",
+          "usd": 1933.64,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.68,
+            "wei_7d": 37.82,
+            "wei_30d": 5.2,
+            "usd_1d": 10.73,
+            "usd_7d": 50.6,
+            "usd_30d": 7.33
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Ape - Earring",
+            "value": "Gold Stud"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Bored Ape Yacht Club"
+          },
+          {
+            "type": "Ape - Fur",
+            "value": "Dark Brown"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "Ape - Eyes",
+            "value": "Sad"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Red"
+          },
+          {
+            "type": "Ape - Background",
+            "value": "Army Green"
+          },
+          {
+            "type": "Ape - Mouth",
+            "value": "Bored Cigarette"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/166444971777081284231172",
+        "token_id": "166444971777081284231172",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/vAsNsGm0McSCZ2wToQ8Zv_01mbnye0WXQpZv9OgBw_uyeTHXM65o1fM6GPRDuOO-Df9jtxldtnJLuzvchg7fEu05Ymps3Wjlxo3h",
+        "name": "Gucci Grail Ape #9023",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1210895994000000000",
+          "usd": 1892.61,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.29,
+            "wei_7d": 25.28,
+            "wei_30d": -4.35,
+            "usd_1d": 11.35,
+            "usd_7d": 36.9,
+            "usd_30d": -2.41
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Ape - Eyes",
+            "value": "Closed"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Purple"
+          },
+          {
+            "type": "Ape - Background",
+            "value": "Army Green"
+          },
+          {
+            "type": "Ape - Mouth",
+            "value": "Bored Unshaven"
+          },
+          {
+            "type": "Ape - Earring",
+            "value": "Silver Hoop"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Bored Ape Yacht Club"
+          },
+          {
+            "type": "Ape - Fur",
+            "value": "Noise"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/340282366920938838264320697062437945347",
+        "token_id": "340282366920938838264320697062437945347",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/vOI3gTXmmbjeYnWRxLVVmciaAwd6twbGt4RgRnV1GNKGnUskL0sttXAbvJxYuFghjZFPY-7QLHDnNBjcy7R-XFphOqFYQ4GXZZXX6w",
+        "name": "Gucci Grail Mutant #20318",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1070481810000000000",
+          "usd": 1673.15,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.03,
+            "wei_7d": 8.68,
+            "wei_30d": -17.03,
+            "usd_1d": 4.97,
+            "usd_7d": 18.76,
+            "usd_30d": -15.35
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "+ Gucci Color",
+            "value": "Red"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Mutant Ape Yacht Club"
+          }
+        ]
+      },
+      {
+        "id": "0x572e33ffa523865791ab1c26b42a86ac244df784/340282366920938776320154097545763618820",
+        "token_id": "340282366920938776320154097545763618820",
+        "address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "media_url": "https://lh3.googleusercontent.com/YNWIK0AgqQqwv7PvgreEKW1xgFGDQF91HUJ1gB8PYImNSTTJR2EMkGuVrj3XEfRaQ-stPHfdZ0G1IGAp7mkpqs1DnmbPy-XKs8rMhQ",
+        "name": "Gucci Grail Mutant #16960",
+        "collection": {
+          "id": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+          "name": "10KTF Gucci Grail",
+          "image_url": "https://lh3.googleusercontent.com/hs7wMR8OGBLG_MjvQFl-tei8U3CpYPgjysNFXttk8qGXjvFH_db-8aVKSbI3dDF6PBjD1CVdsz0qMAtmNs7eHNDhJU8oU9e2bTTuag=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "946213733000000000",
+          "usd": 1478.92,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.87,
+            "wei_7d": -1.42,
+            "wei_30d": -24.75,
+            "usd_1d": 5.83,
+            "usd_7d": 7.72,
+            "usd_30d": -23.23
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "+ Gucci Color",
+            "value": "Purple"
+          },
+          {
+            "type": "Mutant - Background",
+            "value": "M1 Purple"
+          },
+          {
+            "type": "Mutant - Mouth",
+            "value": "M1 Bored"
+          },
+          {
+            "type": "+ Parent Collection",
+            "value": "Mutant Ape Yacht Club"
+          },
+          {
+            "type": "Mutant - Fur",
+            "value": "M1 Blue"
+          },
+          {
+            "type": "+ Gucci Look",
+            "value": "Aria"
+          },
+          {
+            "type": "Mutant - Eyes",
+            "value": "M1 Crazy"
+          }
+        ]
+      },
+      {
+        "id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8/330",
+        "token_id": "330",
+        "address": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+        "media_url": "https://lh3.googleusercontent.com/VxxeEARZ5pW01NAo9HM4sj90EWQw9WqMfVcFa1ZUBB7i9iAcxsYBFBVBR73-vWaK0NHzqRNmGinkiEBo6zn9-FLV2tMayJPr8x7cUg",
+        "name": "SUPERGUCCI FLASH - #31",
+        "collection": {
+          "id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+          "name": "SUPERPLASTIC: SUPERGUCCI",
+          "image_url": "https://lh3.googleusercontent.com/H2q_NpyBs7vCtL-7FWgTH1FCiYnSqC7WwybQDg95bukk3eLBFkr6udy1CBNqwrgwbBYcqshdbuxL0Slz2_IlXNkHMJJCOHEZnj0ONg=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "899000000000000000",
+          "usd": 0,
+          "mape": "11.8",
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 12.37,
+            "wei_30d": -35.78,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8/330",
+          "timestamp": 1645439387,
+          "collection_id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+          "wei": "6000000000000000000",
+          "usd": 11291.412653314894,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 218,
+          "tx_hash": "0x1727df009325ee8f787ae29d95f21231dacc9c148d0a3422daf100771cf0ec9e",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x749aA2Fa3266AfFc8569e293ca37dB661CF06a25",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -5.674082,
+        "traits": [
+          {
+            "type": "Edition",
+            "value": "31"
+          },
+          {
+            "type": "Series",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8/415",
+        "token_id": "415",
+        "address": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+        "media_url": "https://lh3.googleusercontent.com/uPb5ZlKJU93zp3QKAQ6lDQcHq99P8eDpfzt8Iptnuua_nNpQxMUJ15LNz5M0fLhVxwM8yii1Sl0YayNSUQRiQLZFp7CfrkqWlIhhiJE",
+        "name": "SUPERGUCCI STARS - #16",
+        "collection": {
+          "id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+          "name": "SUPERPLASTIC: SUPERGUCCI",
+          "image_url": "https://lh3.googleusercontent.com/H2q_NpyBs7vCtL-7FWgTH1FCiYnSqC7WwybQDg95bukk3eLBFkr6udy1CBNqwrgwbBYcqshdbuxL0Slz2_IlXNkHMJJCOHEZnj0ONg=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "899000000000000000",
+          "usd": 0,
+          "mape": "11.8",
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": 12.37,
+            "wei_30d": -35.78,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8/415",
+          "timestamp": 1645517097,
+          "collection_id": "0x78d61c684a992b0289bbfe58aaa2659f667907f8",
+          "wei": "5140000000000000000",
+          "usd": 9672.97683967309,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 539,
+          "tx_hash": "0x77dac725e50cfa97316e5079f4a995f652f4819ce15a95a259431589ba3e36c4",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0xf0ABCFEAA30A95D32569Fcf2B3a48bc7CB639871",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -4.717464,
+        "traits": [
+          {
+            "type": "Edition",
+            "value": "16"
+          },
+          {
+            "type": "Series",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/88635",
+        "token_id": "88635",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/08985a1acdad0c11a3dc3c49f2ca60b5.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "16094829302000000000",
+          "usd": 25155.99,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 1033.26,
+            "wei_30d": 765.4,
+            "usd_1d": 2.73,
+            "usd_7d": 1138.34,
+            "usd_30d": 782.94
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/88635",
+          "timestamp": 1651666737,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "35000000000000000000",
+          "usd": 66280.97590942869,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 147,
+          "tx_hash": "0xca98270c0711d058b411cea6e942668595bc38ee2243739899fa0b68a1f200e8",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x435b482CF0030E3B688B47477d8C123A5a5BE3eb",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.174611,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/8776",
+        "token_id": "8776",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/6bb1614a36790b838d844f970d179261.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "3712974413000000000",
+          "usd": 5803.33,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 7.98,
+            "wei_7d": 157.06,
+            "wei_30d": 85.31,
+            "usd_1d": 10.01,
+            "usd_7d": 180.9,
+            "usd_30d": 89.06
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/9023",
+        "token_id": "9023",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/adad2ef35e76935fa9fa3c1b50f3eb0d.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "4116744102000000000",
+          "usd": 6434.41,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 7.68,
+            "wei_7d": 153.1,
+            "wei_30d": 82.46,
+            "usd_1d": 9.71,
+            "usd_7d": 176.57,
+            "usd_30d": 86.16
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/88943",
+        "token_id": "88943",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/fee6a3cc503a3a0d863c38cc392073f6.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "15571790623000000000",
+          "usd": 24338.48,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 7.29,
+            "wei_7d": 588.57,
+            "wei_30d": 425.82,
+            "usd_1d": 9.31,
+            "usd_7d": 652.42,
+            "usd_30d": 436.48
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/88943",
+          "timestamp": 1651588714,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "38000000000000000000",
+          "usd": 71962.20241595113,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 441,
+          "tx_hash": "0x7c10efc6a8fc50a091a2936fa69032bfd158d96db5f36ef00431bac3447d6583",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xA9Eb639E266473ED9EfD5F7615975fde76d87f93",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.44031,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/6653",
+        "token_id": "6653",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/ab50d5cd15fad232bdc2df51556dc635.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "3882722994000000000",
+          "usd": 6068.64,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -3.78,
+            "wei_7d": 143.36,
+            "wei_30d": 75.43,
+            "usd_1d": -1.97,
+            "usd_7d": 165.93,
+            "usd_30d": 78.98
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/80399",
+        "token_id": "80399",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/1e87ff55774cd44df2dbb4d0c57e8dca.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1824842300000000000",
+          "usd": 2852.2,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -6.48,
+            "wei_7d": 21.38,
+            "wei_30d": -12.49,
+            "usd_1d": -4.72,
+            "usd_7d": 32.64,
+            "usd_30d": -10.72
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/80399",
+          "timestamp": 1651819569,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "3880000000000000000",
+          "usd": 7347.719615102379,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 32,
+          "tx_hash": "0x482255873df042e0270df17bb415d186666d1479c76feef60a40a6856c0b458e",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x18799f860F9AdB26E076d581603037F79342e0C0",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.126211,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/64044",
+        "token_id": "64044",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/e4a7fccc39e95bd7642c14f6e684c133.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "14766969860000000000",
+          "usd": 0,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 849.85,
+            "wei_30d": 625.34,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/64044",
+          "timestamp": 1651936585,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "27000000000000000000",
+          "usd": 51131.03855870212,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 117,
+          "tx_hash": "0x84ed52adb62dba08c064dfbd7e11aa5f243a28498cf84eddf6e362d987505795",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xa8084f1c9a21acdD1736D43A48B28fD34CF5c884",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.828405,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/5352",
+        "token_id": "5352",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/79cae87f820f1d1ded0b6bd33e98b22d.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "4273204908000000000",
+          "usd": 6678.96,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.02,
+            "wei_7d": 152.77,
+            "wei_30d": 82.22,
+            "usd_1d": 4.96,
+            "usd_7d": 176.21,
+            "usd_30d": 85.91
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/55848",
+        "token_id": "55848",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/5ad349c3ff0f801999a3766e8d9e13f5.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "18645962595000000000",
+          "usd": 29143.37,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -0.93,
+            "wei_7d": 1062.28,
+            "wei_30d": 787.56,
+            "usd_1d": 0.94,
+            "usd_7d": 1170.05,
+            "usd_30d": 805.55
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/55848",
+          "timestamp": 1651666636,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "40000000000000000000",
+          "usd": 75749.68675363278,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 615,
+          "tx_hash": "0x2d08079e4b3c098807cc00173e4bb5e8d18a27660f07a6bd7a74ab44775e42ff",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x0e0f04daBC6CCA87c4ea658f61B06e3f7fa00611",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.145237,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21208",
+        "token_id": "21208",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/87c37b782409a11da8043e7528a478a7.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2145876922000000000",
+          "usd": 3353.97,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -7.31,
+            "wei_7d": 24.6,
+            "wei_30d": -10.17,
+            "usd_1d": -5.56,
+            "usd_7d": 36.15,
+            "usd_30d": -8.35
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/61189",
+        "token_id": "61189",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/c01624e7071cad3c16b66a3c5c984bde.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "18062021276000000000",
+          "usd": 28230.68,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 958.82,
+            "wei_30d": 708.55,
+            "usd_1d": 2.73,
+            "usd_7d": 1057,
+            "usd_30d": 724.93
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/61189",
+          "timestamp": 1651568041,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "30000000000000000000",
+          "usd": 56812.26506522458,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 327,
+          "tx_hash": "0x8eda794ac5b3446649724babe52f25562a20a166d2ce1f91a5ed304b13c62608",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xa5d5AC453017b19980e304b53792baB8F80ec838",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.660944,
+        "traits": []
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2974",
+        "token_id": "2974",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/RB2X_apjiKAOhIrsRzFJMxMO6NqPz0Pxi_EfQw_Bs5SkHW0mI3I9QVaPX_2qEcmmtS3T9hk41jD6PiQc3B_R_IEchdLrO80qhAI_AQ",
+        "name": "#2974",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "3224033331000000000",
+          "usd": 5039.12,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": 741.36,
+            "wei_30d": 856.09,
+            "usd_1d": 5.66,
+            "usd_7d": 819.37,
+            "usd_30d": 875.46
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2974",
+          "timestamp": 1643636000,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "24000000000000000000",
+          "usd": 45449.812052179666,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 306,
+          "tx_hash": "0x4de38095b5ddcc1281a4e9c71f9d4f113f4ab26df77ac393ce08703b6162db26",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x2fe69545A3c0149962E607C2280F7c0657CE68Ad",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -6.444092,
+        "traits": [
+          {
+            "type": "Legendary",
+            "value": "Item 2974"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3425",
+        "token_id": "3425",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/ls1GpIDtV9RLnYQCs7W_zdR9_JeRDX_P8jY3tjSypKQqJilhFx-aPY83L2JOBITAp8p16SU_M_0_7yd7s82DRWKCcCka8RFRfOWNsg",
+        "name": "#3425",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2781137335000000000",
+          "usd": 4346.88,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.8,
+            "wei_7d": 31.84,
+            "wei_30d": 168.57,
+            "usd_1d": 11.87,
+            "usd_7d": 44.06,
+            "usd_30d": 174.01
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3425",
+          "timestamp": 1644100770,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "25000000000000000000",
+          "usd": 47343.55422102049,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 401,
+          "tx_hash": "0xa4c1e317a6f4bf2d7b3a3a727b4fbd2561dab56f6df3e5b043e4a27cc1c1aa6f",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x00A1B46319BE9163B8AE30DBE506235608a563DC",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -7.989128,
+        "traits": [
+          {
+            "type": "Hat",
+            "value": "crown"
+          },
+          {
+            "type": "Mouth",
+            "value": "moustache"
+          },
+          {
+            "type": "Nose",
+            "value": "yellow"
+          },
+          {
+            "type": "Clothes",
+            "value": "leather_jacket"
+          },
+          {
+            "type": "Skin",
+            "value": "white"
+          },
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Helmet",
+            "value": "light_blue"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Eyes",
+            "value": "regular"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Back",
+            "value": "artist"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/5920",
+        "token_id": "5920",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/xKauMwodPVHwjUfZtj35bN9f3mCNbBfZH62KOSELlVfzqoSsmrifT7kLyFPdbv8fvBGsbvzk4wyJiwZuDMemO8g7YKga05HykfK6cA",
+        "name": "#5920",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1195563330000000000",
+          "usd": 1868.65,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 2.18,
+            "wei_7d": 213.83,
+            "wei_30d": 256.62,
+            "usd_1d": 4.1,
+            "usd_7d": 242.93,
+            "usd_30d": 263.85
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/5920",
+          "timestamp": 1643665552,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "11000000000000000000",
+          "usd": 20831.163857249012,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 524,
+          "tx_hash": "0xdc82a0da5030aa199c5a8fff4d63b1b8861c65b8c610039d00c0f05280b7e5d4",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x413FE08a0EEf5A28eb8D9B7299FFcD13C946589E",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -8.200684,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "professor"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Hair",
+            "value": "blond_short"
+          },
+          {
+            "type": "Nose",
+            "value": "pig"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Skin",
+            "value": "nude"
+          },
+          {
+            "type": "Mouth",
+            "value": "walrus"
+          },
+          {
+            "type": "Clothes",
+            "value": "astronaut"
+          },
+          {
+            "type": "Ears",
+            "value": "zombie"
+          },
+          {
+            "type": "Helmet",
+            "value": "rainbow"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/1440",
+        "token_id": "1440",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/2VqolW8Bcb45ACG_ex7IJgwi1Cbazpj1YVF4-EDssSUo0NGxMi_kLCI7soi3lxDIJg1Kz36Mv36u9r91H3fLLCqdAzc2MpJ2D1G-",
+        "name": "#1440",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1431719761000000000",
+          "usd": 2237.76,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": 275.36,
+            "wei_30d": 326.54,
+            "usd_1d": 5.66,
+            "usd_7d": 310.16,
+            "usd_30d": 335.18
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/1440",
+          "timestamp": 1643671978,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "12000000000000000000",
+          "usd": 22724.906026089833,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 324,
+          "tx_hash": "0x0d70fadb51ed86fdbe2ac7116a3e213267d1a4965a82d3fa50c9ac8d753fef61",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x085C725C958f7DE863A43dc272E792cd8E073136",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -7.381529,
+        "traits": [
+          {
+            "type": "Mouth",
+            "value": "sad"
+          },
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Clothes",
+            "value": "thriller"
+          },
+          {
+            "type": "Helmet",
+            "value": "rainbow"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Eyes",
+            "value": "lazer"
+          },
+          {
+            "type": "Hair",
+            "value": "ginger_long"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Hat",
+            "value": "sheriff"
+          },
+          {
+            "type": "Nose",
+            "value": "red"
+          },
+          {
+            "type": "Skin",
+            "value": "alien"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6076",
+        "token_id": "6076",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/mxl8z_gd8PSD9Qt1NeVknUfEDLKUuq9Vbin8dknfrjk7vXXLfTAYZqe6nspEx3gRe1pwIMg5mwf4JnHXsAX4ldmgfTX0nibotsqCxg",
+        "name": "#6076",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1222342865000000000",
+          "usd": 1910.5,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": -16.98,
+            "wei_30d": 69.11,
+            "usd_1d": 5.66,
+            "usd_7d": -9.28,
+            "usd_30d": 72.54
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6076",
+          "timestamp": 1645323758,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "9990000000000000000",
+          "usd": 18918.484266719788,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 604,
+          "tx_hash": "0x75a973e8843dbf2eda590989944401ff75fd4c067148651a450327e6d0a123bc",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0xfb2b47cAc69f7C058e8D1C2d1bbD8eC8c4278899",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -7.17283,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "3d_glasses"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Hair",
+            "value": "blond_short"
+          },
+          {
+            "type": "Nose",
+            "value": "pink"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Skin",
+            "value": "zombie"
+          },
+          {
+            "type": "Mouth",
+            "value": "smoking_pipe"
+          },
+          {
+            "type": "Clothes",
+            "value": "cardigan"
+          },
+          {
+            "type": "Ears",
+            "value": "bunny"
+          },
+          {
+            "type": "Helmet",
+            "value": "red"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3619",
+        "token_id": "3619",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/-qdpslMLFE-YtIGNKfCFVFB2UnVHYQRdiroMYGnrQ5wi2Fxtj9DqCyabLVUv2Y45wtrO4g2NmHpTvOwiRXr0ma5gPBNAavOjkQm3gA",
+        "name": "#3619",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1236079159000000000",
+          "usd": 1931.97,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 2.18,
+            "wei_7d": -17.88,
+            "wei_30d": 67.27,
+            "usd_1d": 4.11,
+            "usd_7d": -10.27,
+            "usd_30d": 70.66
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3619",
+          "timestamp": 1643947181,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "7500000000000000000",
+          "usd": 14203.066266306145,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 197,
+          "tx_hash": "0xec5711bd84754137826a059423861e818b0efbf80c0d4e1288115e5288629e54",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0xD20ACF6CA62C10D29aAA526dbCF5C8DE6909c5b4",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -5.067573,
+        "traits": [
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Eyes",
+            "value": "cyclop"
+          },
+          {
+            "type": "Helmet",
+            "value": "rainbow"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Back",
+            "value": "angel_wings"
+          },
+          {
+            "type": "Hat",
+            "value": "cook"
+          },
+          {
+            "type": "Nose",
+            "value": "pig"
+          },
+          {
+            "type": "Skin",
+            "value": "nude"
+          },
+          {
+            "type": "Mouth",
+            "value": "small_beard"
+          },
+          {
+            "type": "Clothes",
+            "value": "plaid_shirt"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6144",
+        "token_id": "6144",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/HIPZ27p3YwD1vthpIdjW8TLxu0eASzgPr_CW5udvvaVHRUjtsGoj6wm4wA_Qt6D8ze18c4xUVtHS8fUBSe3Cecr8seJze8y-4sOF8g",
+        "name": "#6144",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "4047675073000000000",
+          "usd": 6326.46,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.8,
+            "wei_7d": 1026.42,
+            "wei_30d": 1180.02,
+            "usd_1d": 11.87,
+            "usd_7d": 1130.87,
+            "usd_30d": 1205.96
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6144",
+          "timestamp": 1645323689,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "27000000000000000000",
+          "usd": 51131.03855870212,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 459,
+          "tx_hash": "0x64af4208a2be4754fc734b27f3c578ce2b781b79a0c2eb549f87f57db9ee55b4",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x72e9e25839388d3A3F438481c71aaF76CA027ACb",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -5.670496,
+        "traits": [
+          {
+            "type": "Legendary",
+            "value": "Item 6144"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/5506",
+        "token_id": "5506",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/dSSRUa-ReQzL_Ke3kxdKE3x1dajL5YHP0YVZ2byLo30u7QRhAZj-Yt3bPcUUl9or0s9RRAxjjqR9QlT9Ig6n5kgdtGVNw-c1WN2UhTA",
+        "name": "#5506",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1083264867000000000",
+          "usd": 1693.13,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": -26.59,
+            "wei_30d": 49.52,
+            "usd_1d": 5.66,
+            "usd_7d": -19.78,
+            "usd_30d": 52.55
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/5506",
+          "timestamp": 1643654609,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "10000000000000000000",
+          "usd": 18937.421688408194,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 325,
+          "tx_hash": "0x6b7da14609ea01961e6f4c0c14c471751e68cf847acacc0121a26a8baa64f22e",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x9B8571c79f50fbd003eC3d0865F45432276aA7b6",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -8.231353,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "monster"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Hair",
+            "value": "ginger_long"
+          },
+          {
+            "type": "Nose",
+            "value": "turquoise"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Skin",
+            "value": "white"
+          },
+          {
+            "type": "Mouth",
+            "value": "sad"
+          },
+          {
+            "type": "Clothes",
+            "value": "tattoo"
+          },
+          {
+            "type": "Ears",
+            "value": "regular"
+          },
+          {
+            "type": "Helmet",
+            "value": "light_blue"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/7547",
+        "token_id": "7547",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/cp0VuY5Yuj22IHVBq7wbgZUoNI2jkbHiwNaWo4PvZPbE2oHLQIM-fjkERWLYjl86LqDLYNLOy-ZbgnR761OzzaxTpfB_0L7bBwfp",
+        "name": "#7547",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1366968483000000000",
+          "usd": 2136.55,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": 328.62,
+            "wei_30d": 387.07,
+            "usd_1d": 5.66,
+            "usd_7d": 368.36,
+            "usd_30d": 396.94
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/7547",
+          "timestamp": 1645223487,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "8000000000000000000",
+          "usd": 15149.937350726555,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 200,
+          "tx_hash": "0x31ab8a23378f58f8aea9c330bc8a066fa55e19d2900d3ae170bad55333a12fa4",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x1dF4c50410e20c2210B60b95cd845672cbD437A7",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -4.852366,
+        "traits": [
+          {
+            "type": "Ears",
+            "value": "small_wings"
+          },
+          {
+            "type": "Eyes",
+            "value": "zombie"
+          },
+          {
+            "type": "Helmet",
+            "value": "dark_green"
+          },
+          {
+            "type": "Hair",
+            "value": "black_long"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Nose",
+            "value": "green"
+          },
+          {
+            "type": "Skin",
+            "value": "zombie"
+          },
+          {
+            "type": "Mouth",
+            "value": "screaming"
+          },
+          {
+            "type": "Clothes",
+            "value": "ninja"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2576",
+        "token_id": "2576",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/jsYcrMtJKyklLweb62YObMYLiEtc9-hlFwDcY7YysfLksJbtBrsKFmTC0w7M0D6z6ut7i7c09sUc3NNPAbS1iQDU4MFMXDKXCcat0w",
+        "name": "#2576",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1201275916000000000",
+          "usd": 1877.58,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": 221.6,
+            "wei_30d": 265.45,
+            "usd_1d": 5.66,
+            "usd_7d": 251.42,
+            "usd_30d": 272.85
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2576",
+          "timestamp": 1644075673,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "10000000000000000000",
+          "usd": 18937.421688408194,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 203,
+          "tx_hash": "0xe54dac183e3fcaf123ca2b98074bc4e701fb9eaa2df7049f47196fa99095df67",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x93e6222A623f2a0762F8b6Cf6100Fd00536851b8",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -7.324482,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "cyborg"
+          },
+          {
+            "type": "Hat",
+            "value": "gentleman"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Nose",
+            "value": "yellow"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Skin",
+            "value": "white"
+          },
+          {
+            "type": "Mouth",
+            "value": "small_beard"
+          },
+          {
+            "type": "Clothes",
+            "value": "astronaut"
+          },
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Helmet",
+            "value": "red"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6121",
+        "token_id": "6121",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/pcOZ5LfVOlybFvHnrzDKEBhfEkMJQpGgQ0zpYlKUrupC55M6XMxBiJsthB6G_RO2EcLIq8cB0tFanA1vCl4BAuf0GvFCT51aoGUQvIo",
+        "name": "#6121",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "3852457710000000000",
+          "usd": 6021.34,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.16,
+            "wei_7d": 1138.34,
+            "wei_30d": 1307.2,
+            "usd_1d": 10.2,
+            "usd_7d": 1253.16,
+            "usd_30d": 1335.71
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6121",
+          "timestamp": 1645264684,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "20000000000000000000",
+          "usd": 37874.84337681639,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 196,
+          "tx_hash": "0x8b93975107383514b8cdd6b946a34b319971f8b9654e72723d550b2860b4492e",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0xd4E4D1F84500641A9a8094624244dD2456B622f4",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -4.191491,
+        "traits": [
+          {
+            "type": "Legendary",
+            "value": "Item 6121"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6360",
+        "token_id": "6360",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/YdZpgj75ntqE2yWHYGx7yRVikgCwpoWQO_8GoOpNyJ_43WpJD7I9a4Yg9CRoS0KX2wBy_jzAs-UFqfd4Q2azr4NqfXaYpE_loVAwEg",
+        "name": "#6360",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "594486903000000000",
+          "usd": 929.17,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 1.64,
+            "wei_7d": 86.17,
+            "wei_30d": 111.56,
+            "usd_1d": 3.56,
+            "usd_7d": 103.43,
+            "usd_30d": 115.85
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6360",
+          "timestamp": 1643681759,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "2700000000000000000",
+          "usd": 5113.103855870213,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 135,
+          "tx_hash": "0xa378efb972fc5175de85cccb17b1a55c08802c33ee1abed66b426ad66fe5f715",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xCbacfd488370D9A611b3584070B98ad0c5597250",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -3.541732,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "suspicious"
+          },
+          {
+            "type": "Hat",
+            "value": "unicorn"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Nose",
+            "value": "blue"
+          },
+          {
+            "type": "Back",
+            "value": "tennis"
+          },
+          {
+            "type": "Skin",
+            "value": "nude"
+          },
+          {
+            "type": "Mouth",
+            "value": "wow"
+          },
+          {
+            "type": "Clothes",
+            "value": "doctor"
+          },
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Helmet",
+            "value": "black"
+          },
+          {
+            "type": "Background",
+            "value": "purple"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/7416",
+        "token_id": "7416",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/ILF33sFwCHcyL0artGMiY3QwDRWRPt4bOcKiM2N6eIa629Lf7wwbC3A0hZI7vJgzAqmGZg_LW8xdAWxfRvaxBuHVdq4dQAtoNgCJqA",
+        "name": "#7416",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "4128251731000000000",
+          "usd": 6452.4,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.8,
+            "wei_7d": 1018.05,
+            "wei_30d": 1170.52,
+            "usd_1d": 11.87,
+            "usd_7d": 1121.72,
+            "usd_30d": 1196.27
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/7416",
+          "timestamp": 1643643050,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "25900000000000000000",
+          "usd": 49047.92217297722,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 238,
+          "tx_hash": "0xf2a7511e170abd81ea40affa39f15c7bf75e9443005ab26cf954ec2be2e121ba",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x8f0f6d8077a4E1A2AcE7dE32F189de86b7bcbA0a",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -5.273842,
+        "traits": [
+          {
+            "type": "Legendary",
+            "value": "Item 7416"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/686",
+        "token_id": "686",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/eQ11083YRywilvQS_ZmRjNT4Fb6Wk_3ORdHH_y5xZtWDNW_C8RdkGu1hYnGfIw8vGKaUm28Q8wh_HwYTZ8QV10mR9y_BJR9bqIcntnU",
+        "name": "#686",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "5980430335000000000",
+          "usd": 9347.33,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.8,
+            "wei_7d": 571.96,
+            "wei_30d": 1268.81,
+            "usd_1d": 11.87,
+            "usd_7d": 634.27,
+            "usd_30d": 1296.55
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/686",
+          "timestamp": 1643745096,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "25000000000000000000",
+          "usd": 47343.55422102049,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 323,
+          "tx_hash": "0x2a675e7763b89175ffcde4ba48efe4b4dd6a666a3560897ff5011eca03832004",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x1aC75F46947c57E835f497c7526624bb925a1018",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -3.180301,
+        "traits": [
+          {
+            "type": "Legendary",
+            "value": "Item 686"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3622",
+        "token_id": "3622",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/y2HW4zhmpSJgPNZGrTu13st2NDZGKN3yl2qxG59WaDoX4fN55EM9WHhxFXkfQMsGX_u60iBULm1pf-cRO0pCHsszKPo2X783oEg0Mg",
+        "name": "#3622",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "990688850000000000",
+          "usd": 1548.43,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.8,
+            "wei_7d": -26.8,
+            "wei_30d": 49.1,
+            "usd_1d": 2.7,
+            "usd_7d": -20.01,
+            "usd_30d": 52.12
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/3622",
+          "timestamp": 1643633368,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "5500000000000000000",
+          "usd": 10415.581928624506,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 63,
+          "tx_hash": "0xdbf70cc97dceee3a3c0645a3e97f511ea13b6dd7fa885e97b3a2834e747c89be",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xD7a9CcAd4Ddb88f9A39fcc87748A045767BaF5DD",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -4.551693,
+        "traits": [
+          {
+            "type": "Eyes",
+            "value": "lazer"
+          },
+          {
+            "type": "Hat",
+            "value": "cowboy"
+          },
+          {
+            "type": "Hair",
+            "value": "blond_long"
+          },
+          {
+            "type": "Nose",
+            "value": "black"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Skin",
+            "value": "alien"
+          },
+          {
+            "type": "Mouth",
+            "value": "vampire"
+          },
+          {
+            "type": "Clothes",
+            "value": "policeman"
+          },
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Helmet",
+            "value": "light_blue"
+          },
+          {
+            "type": "Background",
+            "value": "purple"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6283",
+        "token_id": "6283",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/PzlAAxOBJFlgWOim_LxHoNiD8cAp0mivjxhaN43lvML8FGO6zU5mqWmXi-qcQ-zoYxN1eQb_vOtKRQx41u9RKcwCSS8uX3gfuVSnNQ",
+        "name": "#6283",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "347362405000000000",
+          "usd": 542.92,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 9.51,
+            "wei_7d": 24.61,
+            "wei_30d": 41.6,
+            "usd_1d": 11.57,
+            "usd_7d": 36.17,
+            "usd_30d": 44.47
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/6283",
+          "timestamp": 1644832296,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "800000000000000000",
+          "usd": 1514.9937350726557,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 459,
+          "tx_hash": "0x55af60c4060eac2eea472552de501121ad72de991b42a65e15de99db86ec38c8",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xAfEa377a64269E9f99cBF3776dba76AA22574a95",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.30307,
+        "traits": [
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Mouth",
+            "value": "smoking_pipe"
+          },
+          {
+            "type": "Nose",
+            "value": "black"
+          },
+          {
+            "type": "Clothes",
+            "value": "drawing_my_life"
+          },
+          {
+            "type": "Skin",
+            "value": "nude"
+          },
+          {
+            "type": "Ears",
+            "value": "pointy"
+          },
+          {
+            "type": "Helmet",
+            "value": "white"
+          },
+          {
+            "type": "Background",
+            "value": "grey"
+          },
+          {
+            "type": "Eyes",
+            "value": "vampire"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Back",
+            "value": "black_cape"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/291",
+        "token_id": "291",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/63OOmmcVz3ARa9Vv79tht-JrLMN-gAoRmLIYhfwqXr4oym2zca-iCro9azUlUzfGC0nyNonGiRrF3jKDgVwq5kdYJgpm2niihkHdwq4",
+        "name": "#291",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1173101295000000000",
+          "usd": 1833.54,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 2.32,
+            "wei_7d": 312.84,
+            "wei_30d": 369.13,
+            "usd_1d": 4.25,
+            "usd_7d": 351.12,
+            "usd_30d": 378.64
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/291",
+          "timestamp": 1643604722,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "4800000000000000000",
+          "usd": 9089.962410435934,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 71,
+          "tx_hash": "0x4d6f985b0d94c18cc90c90795a6487db0d94adcc95a91cb327c417be7ea19ccc",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x5B924246879e7387dA9597bbdc8F675d91Ba07b4",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -3.091718,
+        "traits": [
+          {
+            "type": "Ears",
+            "value": "none"
+          },
+          {
+            "type": "Eyes",
+            "value": "lazer"
+          },
+          {
+            "type": "Helmet",
+            "value": "light_blue"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Background",
+            "value": "orange"
+          },
+          {
+            "type": "Back",
+            "value": "skater"
+          },
+          {
+            "type": "Hat",
+            "value": "crazy"
+          },
+          {
+            "type": "Nose",
+            "value": "pink"
+          },
+          {
+            "type": "Skin",
+            "value": "radioactive"
+          },
+          {
+            "type": "Mouth",
+            "value": "small_beard"
+          },
+          {
+            "type": "Clothes",
+            "value": "policeman"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2187",
+        "token_id": "2187",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/uxNiSww57AkJAx_qYiZBK9elwG1ycnTRaY2Fpn4pxy9f-8Sk4035TL-mqLmDBDEZIK-WP2t7XVl-GcxXqRI6DNxjBFLl84vmF6RM3A",
+        "name": "#2187",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "704020826000000000",
+          "usd": 1100.37,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 8.51,
+            "wei_7d": 138.76,
+            "wei_30d": 171.31,
+            "usd_1d": 10.55,
+            "usd_7d": 160.9,
+            "usd_30d": 176.81
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2187",
+          "timestamp": 1645166151,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "1300000000000000000",
+          "usd": 2461.864819493065,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 304,
+          "tx_hash": "0x98d1e2304e1158a332b73748ea262c83cffd22877c0348921fcb604e110057c3",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x4a465C6dB61C0055469a891D5BAF7A4DD1c7ae15",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.846536,
+        "traits": [
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Mouth",
+            "value": "beard"
+          },
+          {
+            "type": "Nose",
+            "value": "blue"
+          },
+          {
+            "type": "Clothes",
+            "value": "skull"
+          },
+          {
+            "type": "Skin",
+            "value": "zombie"
+          },
+          {
+            "type": "Ears",
+            "value": "bunny"
+          },
+          {
+            "type": "Helmet",
+            "value": "orange"
+          },
+          {
+            "type": "Background",
+            "value": "red"
+          },
+          {
+            "type": "Eyes",
+            "value": "zombie"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2173",
+        "token_id": "2173",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/vX0p7l9bsSGtCPN8cZnVmtZiDKwWTlk45VgL4xhgwtCv28mY9Q6hiiAYafNU9piEjTYzToj_-vHdYZb7OQtZUfyYN9PfsTpc1_2J",
+        "name": "#2173",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1198790220000000000",
+          "usd": 1873.69,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 4.74,
+            "wei_7d": -27.29,
+            "wei_30d": 48.1,
+            "usd_1d": 6.71,
+            "usd_7d": -20.55,
+            "usd_30d": 51.1
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/2173",
+          "timestamp": 1643682745,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "10000000000000000000",
+          "usd": 18937.421688408194,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 458,
+          "tx_hash": "0x4b186da2c2bccb2d5ff34bd76b3a07d24f2f79a0716159b16445c4e5567ec8e8",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xcbFe751EB2e6bf1cBe3B8F30827c7E9153236080",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -7.341743,
+        "traits": [
+          {
+            "type": "Ears",
+            "value": "pointy"
+          },
+          {
+            "type": "Eyes",
+            "value": "manga"
+          },
+          {
+            "type": "Helmet",
+            "value": "purple"
+          },
+          {
+            "type": "Hair",
+            "value": "none"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Nose",
+            "value": "yellow"
+          },
+          {
+            "type": "Skin",
+            "value": "zombie"
+          },
+          {
+            "type": "Mouth",
+            "value": "beard"
+          },
+          {
+            "type": "Clothes",
+            "value": "martian"
+          }
+        ]
+      },
+      {
+        "id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/1106",
+        "token_id": "1106",
+        "address": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+        "media_url": "https://lh3.googleusercontent.com/pK3NtNToObUvAgH8b0OLEvqS9FtrjQSnzLuKEzAf7mbrA-TgUEYByXyh5iMPbPMyolRyqYzlOE2MEkj9-WBBMDrw2bUqXyI2NWPA",
+        "name": "#1106",
+        "collection": {},
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1378563681000000000",
+          "usd": 2154.68,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 3.71,
+            "wei_7d": -9.06,
+            "wei_30d": 85.24,
+            "usd_1d": 5.66,
+            "usd_7d": -0.63,
+            "usd_30d": 88.99
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647/1106",
+          "timestamp": 1644822361,
+          "collection_id": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "wei": "10000000000000000000",
+          "usd": 18937.421688408194,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 469,
+          "tx_hash": "0xfe9da0e19fd20860a0d780d2957864a3f26fe92d691e60a84cfa0baf652ef4d7",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x9Fb7563A1969f034e8FeB83e499C967D31538E86",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -6.253927,
+        "traits": [
+          {
+            "type": "Mouth",
+            "value": "chewing_gum"
+          },
+          {
+            "type": "Ears",
+            "value": "small"
+          },
+          {
+            "type": "Clothes",
+            "value": "tie_and_dye"
+          },
+          {
+            "type": "Helmet",
+            "value": "png"
+          },
+          {
+            "type": "Background",
+            "value": "artnotes"
+          },
+          {
+            "type": "Eyes",
+            "value": "rogue"
+          },
+          {
+            "type": "Hair",
+            "value": "blond_short"
+          },
+          {
+            "type": "Back",
+            "value": "none"
+          },
+          {
+            "type": "Hat",
+            "value": "none"
+          },
+          {
+            "type": "Nose",
+            "value": "carrot"
+          },
+          {
+            "type": "Skin",
+            "value": "alien"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/56408",
+        "token_id": "56408",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/597d782f2a997ed0dbbc0221661c7aa0.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "20043413639000000000",
+          "usd": 31327.57,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 1151.52,
+            "wei_30d": 855.7,
+            "usd_1d": 2.73,
+            "usd_7d": 1267.57,
+            "usd_30d": 875.07
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/56408",
+          "timestamp": 1652230630,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "26000000000000000000",
+          "usd": 49237.29638986131,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 456,
+          "tx_hash": "0x515470443660ea4acab3a1c1b64cfdcffe7a828eceb2edf374c5940f44da6b4d",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x225e6bF3DF84E55387438CDf18A1bc7AB5bf686c",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.297184,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21206",
+        "token_id": "21206",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/4dafabb60354ecbc1d0b9e33deb8ab04.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "1988804944000000000",
+          "usd": 3108.47,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -1.02,
+            "wei_7d": 21.94,
+            "wei_30d": -12.09,
+            "usd_1d": 0.84,
+            "usd_7d": 33.25,
+            "usd_30d": -10.31
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/14558",
+        "token_id": "14558",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/9ecec71c84158ec55272eedf06bcb188.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "15345108672000000000",
+          "usd": 23984.18,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 797.63,
+            "wei_30d": 585.46,
+            "usd_1d": 2.73,
+            "usd_7d": 880.86,
+            "usd_30d": 599.35
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/14558",
+          "timestamp": 1651826633,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "36000000000000000000",
+          "usd": 68174.7180782695,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 352,
+          "tx_hash": "0x0892e4bcd1e5f146c755678ee87f8a7e5aedd9a36cae8fb1c0afbdb8e13b7be5",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x9e7F11F34632BF6362FBcBe11Cb638b00B68E755",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -1.346024,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21210",
+        "token_id": "21210",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/76a7b6eb16c2a6c2a3c3afd84c806272.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2013903883000000000",
+          "usd": 3147.7,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -6.68,
+            "wei_7d": 22.67,
+            "wei_30d": -11.56,
+            "usd_1d": -4.92,
+            "usd_7d": 34.04,
+            "usd_30d": -9.77
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21209",
+        "token_id": "21209",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/9bc1916267ed46ad7808b4f755ee45bf.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2133753761000000000",
+          "usd": 3335.03,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -18.54,
+            "wei_7d": 26.55,
+            "wei_30d": -8.76,
+            "usd_1d": -17.01,
+            "usd_7d": 38.28,
+            "usd_30d": -6.91
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/3450",
+        "token_id": "3450",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/9248350d62c78dc899a14c3371856d6d.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "15736066312000000000",
+          "usd": 24595.24,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": 5.74,
+            "wei_7d": -0.41,
+            "wei_30d": -15.34,
+            "usd_1d": 7.73,
+            "usd_7d": 8.82,
+            "usd_30d": -13.62
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/3450",
+          "timestamp": 1647663131,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "24000000000000000000",
+          "usd": 45449.812052179666,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 308,
+          "tx_hash": "0xaf5285e0b9664e3f92215aa79e25abcfc55181e16fe98d4c7c88ff981daa46af",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x54F35e5464222ddecE6e7230AC26fD51fA82f0f2",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.525159,
+        "traits": [
+          {
+            "type": "Clothes",
+            "value": "M2 Puffy Vest"
+          },
+          {
+            "type": "Eyes",
+            "value": "M2 Bloodshot"
+          },
+          {
+            "type": "Background",
+            "value": "M2 Orange"
+          },
+          {
+            "type": "Hat",
+            "value": "M2 Seaman's Hat"
+          },
+          {
+            "type": "Fur",
+            "value": "M2 White"
+          },
+          {
+            "type": "Mouth",
+            "value": "M2 Bored Cigarette"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/2070",
+        "token_id": "2070",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/50bcc054e1fe0f27fca442c435d57b5b.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "4404642393000000000",
+          "usd": 6884.39,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -0.83,
+            "wei_7d": 146.45,
+            "wei_30d": 77.66,
+            "usd_1d": 1.04,
+            "usd_7d": 169.3,
+            "usd_30d": 81.26
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/28047",
+        "token_id": "28047",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/09966c06f123ea655268adfefc653ca5.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "21052764569000000000",
+          "usd": 32905.17,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": -1.92,
+            "wei_7d": -7.6,
+            "wei_30d": -14.99,
+            "usd_1d": -0.07,
+            "usd_7d": 0.97,
+            "usd_30d": -13.27
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": [
+          {
+            "type": "Background",
+            "value": "M2 Army Green"
+          },
+          {
+            "type": "Hat",
+            "value": "M2 Short Mohawk"
+          },
+          {
+            "type": "Earring",
+            "value": "M2 Silver Hoop"
+          },
+          {
+            "type": "Fur",
+            "value": "M2 Noise"
+          },
+          {
+            "type": "Mouth",
+            "value": "M2 Bored Unshaven"
+          },
+          {
+            "type": "Clothes",
+            "value": "M2 Bayc T Black"
+          },
+          {
+            "type": "Eyes",
+            "value": "M2 Closed"
+          }
+        ]
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/29708",
+        "token_id": "29708",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/e23076119cb8ba73b9b389197b1060b2.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "15926047819000000000",
+          "usd": 24892.18,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": 5.51,
+            "wei_7d": 0.31,
+            "wei_30d": -18.04,
+            "usd_1d": 7.5,
+            "usd_7d": 9.61,
+            "usd_30d": -16.38
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/29708",
+          "timestamp": 1647527982,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "21000000000000000000",
+          "usd": 39768.58554565721,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 412,
+          "tx_hash": "0xac6487579e48d01c7917b2b2f3cbed0976ff3dbd424d0a837596857ceac6bf5a",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xd2dc28F65c76510a4A930D28664a60828C4cF64e",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.318595,
+        "traits": [
+          {
+            "type": "Background",
+            "value": "M1 Army Green"
+          },
+          {
+            "type": "Hat",
+            "value": "M1 Bayc Hat Black"
+          },
+          {
+            "type": "Fur",
+            "value": "M1 Pink"
+          },
+          {
+            "type": "Mouth",
+            "value": "M1 Bored Bubblegum"
+          },
+          {
+            "type": "Clothes",
+            "value": "M1 Bone Tee"
+          },
+          {
+            "type": "Eyes",
+            "value": "M1 Laser Eyes"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21205",
+        "token_id": "21205",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/4e9919dffe48b41410dc1cfa4739dd5c.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2024259244000000000",
+          "usd": 3163.89,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -7.31,
+            "wei_7d": 24.6,
+            "wei_30d": -10.17,
+            "usd_1d": -5.56,
+            "usd_7d": 36.15,
+            "usd_30d": -8.35
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/6344",
+        "token_id": "6344",
+        "address": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+        "media_url": "https://lh3.googleusercontent.com/nJV5JIXnzZMw_V7ZZoR9YmL13HTo1UdXfeVn7mLP9s6QSxm3rfXN9UsYoBBnWqXU_KlXvl0of1TQwEojP9IA7Nd1fG_6MMC2lza7E3I",
+        "name": null,
+        "collection": {
+          "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "name": "Bored Ape Kennel Club",
+          "image_url": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "7874666973000000000",
+          "usd": 12307.99,
+          "mape": "480.46",
+          "change": {
+            "wei_1d": 1.77,
+            "wei_7d": 13.37,
+            "wei_30d": -0.6,
+            "usd_1d": 3.69,
+            "usd_7d": 23.88,
+            "usd_30d": 1.41
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/6344",
+          "timestamp": 1647996178,
+          "collection_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "wei": "8499990000000000000",
+          "usd": 16096.789497725278,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 552,
+          "tx_hash": "0xc54eaaea1b2603398ec269d4037ee06e7530a64afcced5290d519630c20dc3e3",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xca041c420d7e71Ee28c53d931172A0116A415Dca",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.079409,
+        "traits": [
+          {
+            "type": "Background",
+            "value": "SS Monke Biz"
+          },
+          {
+            "type": "Eyes",
+            "value": "Holographic Visor"
+          },
+          {
+            "type": "Neck",
+            "value": "Glow Necklace"
+          },
+          {
+            "type": "Mouth",
+            "value": "Fish"
+          },
+          {
+            "type": "Fur",
+            "value": "Pink"
+          },
+          {
+            "type": "Head",
+            "value": "Sea Captain's Hat"
+          }
+        ]
+      },
+      {
+        "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/9023",
+        "token_id": "9023",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "media_url": "https://lh3.googleusercontent.com/zVUvbJ9WTO-DecY9B8KtasfPSIGjlAsoIkIIQR1Is9sJUTYO1mqswTaE_ZsqJxAnkLoiS2Be32EJvLkANKeXJZxJn0h1nF510gnNG3w",
+        "name": null,
+        "collection": {
+          "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "name": "Bored Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "182442861361000000000",
+          "usd": 0,
+          "mape": "18.1",
+          "change": {
+            "wei_1d": 58.97,
+            "wei_7d": 43.19,
+            "wei_30d": 12.26,
+            "usd_1d": 0,
+            "usd_7d": 0,
+            "usd_30d": 0
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/9023",
+          "timestamp": 1647593831,
+          "collection_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "wei": "169000000000000000000",
+          "usd": 320042.42653409846,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 252,
+          "tx_hash": "0x0785b1d8def6f0fc6d4d27472233462f07f5ff93ddd4f58c2b82b955c68e308d",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x69c488Bcda156379B6661f08A35dB627E5D467Dd",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": 0.073683,
+        "traits": [
+          {
+            "type": "Background",
+            "value": "Army Green"
+          },
+          {
+            "type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "type": "Fur",
+            "value": "Noise"
+          },
+          {
+            "type": "Mouth",
+            "value": "Bored Unshaven"
+          },
+          {
+            "type": "Hat",
+            "value": "Short Mohawk"
+          },
+          {
+            "type": "Clothes",
+            "value": "Bayc T Black"
+          },
+          {
+            "type": "Earring",
+            "value": "Silver Hoop"
+          }
+        ]
+      },
+      {
+        "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/6653",
+        "token_id": "6653",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "media_url": "https://lh3.googleusercontent.com/IuobTuOLsVes_zgXdjMnEZHD0fsAiIdIbBqkn65xZgXmrufjH5tzybFTdsQ2iP4cpLbbcYkzPdzGnCg6Te3GQPQqw_ZgXwN8mIzqsSc",
+        "name": null,
+        "collection": {
+          "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "name": "Bored Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "155083901533000000000",
+          "usd": 242393.9,
+          "mape": "18.1",
+          "change": {
+            "wei_1d": 56.12,
+            "wei_7d": 67.62,
+            "wei_30d": 14.03,
+            "usd_1d": 59.06,
+            "usd_7d": 83.16,
+            "usd_30d": 16.34
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/6653",
+          "timestamp": 1648200894,
+          "collection_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "wei": "123000000000000000000",
+          "usd": 232930.2867674208,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 212,
+          "tx_hash": "0xb52754507e96ee23a7425b6fa1d797787b99016c3658de4357c39315a8b8b750",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xdaB4EBa3D50016eB8a86c86263E07c7FBB16B391",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": 0.206881,
+        "traits": [
+          {
+            "type": "Clothes",
+            "value": "Pimp Coat"
+          },
+          {
+            "type": "Background",
+            "value": "Aquamarine"
+          },
+          {
+            "type": "Eyes",
+            "value": "Angry"
+          },
+          {
+            "type": "Fur",
+            "value": "Black"
+          },
+          {
+            "type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "type": "Hat",
+            "value": "Prussian Helmet"
+          }
+        ]
+      },
+      {
+        "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/3803",
+        "token_id": "3803",
+        "address": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+        "media_url": "https://lh3.googleusercontent.com/M89cI7Uts4oyNczxGH5ZAszZIYYVOND_Lk-0Mc2JGHxdWf_dtVN9pHliuEbrEsykmVRmRi8pmgoPfnXIHqcO-aEz4lNDsZFkLKQ5nA",
+        "name": null,
+        "collection": {
+          "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "name": "Bored Ape Kennel Club",
+          "image_url": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "8043372926000000000",
+          "usd": 12571.68,
+          "mape": "480.46",
+          "change": {
+            "wei_1d": -8.54,
+            "wei_7d": 10.39,
+            "wei_30d": -9.68,
+            "usd_1d": -6.82,
+            "usd_7d": 20.63,
+            "usd_30d": -7.85
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/3803",
+          "timestamp": 1647489397,
+          "collection_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "wei": "11750000000000000000",
+          "usd": 22251.470483879628,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 487,
+          "tx_hash": "0xe91e95639c91ee0395a3ab566731f94c111c5516ce3f9d6517985e1755f4b4ea",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x8F0Add9416Bc9aa39040aC06A268D3d70740e58f",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.46083,
+        "traits": [
+          {
+            "type": "Fur",
+            "value": "Radioactive"
+          },
+          {
+            "type": "Background",
+            "value": "Club Exterior"
+          },
+          {
+            "type": "Eyes",
+            "value": "Closed"
+          },
+          {
+            "type": "Mouth",
+            "value": "Hot Dog"
+          },
+          {
+            "type": "Feet",
+            "value": "Cast"
+          }
+        ]
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/10665",
+        "token_id": "10665",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/78af91b3b9d8bfe22fccb61f8c055fef.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "16225740090000000000",
+          "usd": 25360.6,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": 9.29,
+            "wei_7d": -0.5,
+            "wei_30d": -16,
+            "usd_1d": 11.35,
+            "usd_7d": 8.73,
+            "usd_30d": -14.3
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/10665",
+          "timestamp": 1647665104,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "24200000000000000000",
+          "usd": 45828.560485947826,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 223,
+          "tx_hash": "0xb56deadd64f00157441e5ffbea1bb78a2f2522520482d759190e75b3b0d0fc18",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x187BA313bEEE55957c30F062a6c53A5F0c1971c5",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.491457,
+        "traits": [
+          {
+            "type": "Background",
+            "value": "M2 Yellow"
+          },
+          {
+            "type": "Fur",
+            "value": "M2 Cream"
+          },
+          {
+            "type": "Clothes",
+            "value": "M2 Tuxedo Tee"
+          },
+          {
+            "type": "Mouth",
+            "value": "M2 Discomfort"
+          },
+          {
+            "type": "Eyes",
+            "value": "M2 3d"
+          }
+        ]
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/5286",
+        "token_id": "5286",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/1801be20e4b2a64e475da3433aaee3f8.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "13437497252000000000",
+          "usd": 21002.61,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": 2.69,
+            "wei_7d": -0.77,
+            "wei_30d": -15.74,
+            "usd_1d": 4.62,
+            "usd_7d": 8.43,
+            "usd_30d": -14.03
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/5286",
+          "timestamp": 1647526706,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "17400000000000000000",
+          "usd": 32951.11373783025,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 310,
+          "tx_hash": "0xac92ba70573971e010e0b8e2b31a36bb03f6ec4e29aadaff09dcb8fd95f953fd",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xdf6160fE3E5A7D6df67c2BB3D7E100B47eFA243C",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.294884,
+        "traits": [
+          {
+            "type": "Hat",
+            "value": "M1 Halo"
+          },
+          {
+            "type": "Fur",
+            "value": "M1 Dark Brown"
+          },
+          {
+            "type": "Mouth",
+            "value": "M1 Bored"
+          },
+          {
+            "type": "Clothes",
+            "value": "M1 Tuxedo Tee"
+          },
+          {
+            "type": "Eyes",
+            "value": "M1 Wide Eyed"
+          },
+          {
+            "type": "Background",
+            "value": "M1 Yellow"
+          }
+        ]
+      },
+      {
+        "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8776",
+        "token_id": "8776",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "media_url": "https://lh3.googleusercontent.com/nenMRHGGqWvIKONh7Zjd23IPUBrJfB2EYKdineSb29s7vvoJjDAtQY-szKRbnTpDPM1WMzX_ZvcoL0Kwdek8KhEUWX_zPZ10-f-a5Rs",
+        "name": null,
+        "collection": {
+          "id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "name": "Bored Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "126578316643000000000",
+          "usd": 197840.08,
+          "mape": "18.1",
+          "change": {
+            "wei_1d": 58.71,
+            "wei_7d": 90.48,
+            "wei_30d": 44.28,
+            "usd_1d": 61.7,
+            "usd_7d": 108.14,
+            "usd_30d": 47.2
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8776",
+          "timestamp": 1647532141,
+          "collection_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+          "wei": "98000000000000000000",
+          "usd": 185586.7325464003,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 495,
+          "tx_hash": "0x69ed1f4573d6f25a7b7da4a71fd751c2a0f2afb34f2a07ff514239d8608b77e4",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xbD302b98060fEBEAAC5234Ad092Ae5EE08d8FDB8",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": 0.225776,
+        "traits": [
+          {
+            "type": "Clothes",
+            "value": "Tweed Suit"
+          },
+          {
+            "type": "Earring",
+            "value": "Gold Stud"
+          },
+          {
+            "type": "Background",
+            "value": "Army Green"
+          },
+          {
+            "type": "Eyes",
+            "value": "Sad"
+          },
+          {
+            "type": "Fur",
+            "value": "Dark Brown"
+          },
+          {
+            "type": "Mouth",
+            "value": "Bored Cigarette"
+          },
+          {
+            "type": "Hat",
+            "value": "Short Mohawk"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21204",
+        "token_id": "21204",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/2321247491b368dbbf2f8229fee38815.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2144074792000000000",
+          "usd": 3351.16,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 2.04,
+            "wei_7d": 37.56,
+            "wei_30d": -0.83,
+            "usd_1d": 3.96,
+            "usd_7d": 50.32,
+            "usd_30d": 1.18
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/20318",
+        "token_id": "20318",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/2bdfa0989eefe22b09fe2391b2717846.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "13850608508000000000",
+          "usd": 21648.3,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": -1.54,
+            "wei_7d": -2.88,
+            "wei_30d": -19.03,
+            "usd_1d": 0.31,
+            "usd_7d": 6.13,
+            "usd_30d": -17.39
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/20318",
+          "timestamp": 1647480573,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "23950000000000000000",
+          "usd": 45355.124943737625,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 162,
+          "tx_hash": "0xe9019a0a34b78df1ab685879f913a1ebba7e23f3283f86ab7b12ec123b9a56ea",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0xeA0591576BfF20C6CD220F0DCA550eB7EB9Fd077",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.729166,
+        "traits": [
+          {
+            "type": "Clothes",
+            "value": "M1 Work Vest"
+          },
+          {
+            "type": "Eyes",
+            "value": "M1 3d"
+          },
+          {
+            "type": "Background",
+            "value": "M1 Orange"
+          },
+          {
+            "type": "Hat",
+            "value": "M1 Bayc Hat Black"
+          },
+          {
+            "type": "Earring",
+            "value": "M1 Silver Hoop"
+          },
+          {
+            "type": "Fur",
+            "value": "M1 Dark Brown"
+          },
+          {
+            "type": "Mouth",
+            "value": "M1 Bored Unshaven Cigarette"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/22572",
+        "token_id": "22572",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/f6be815188b2e0bebb1fd241d6de53bf.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "14181777927000000000",
+          "usd": 22165.91,
+          "mape": "1210",
+          "change": {
+            "wei_1d": 0.83,
+            "wei_7d": 995.42,
+            "wei_30d": 689.67,
+            "usd_1d": 2.73,
+            "usd_7d": 1096.99,
+            "usd_30d": 705.67
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/22572",
+          "timestamp": 1651823205,
+          "collection_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "wei": "23000000000000000000",
+          "usd": 43556.069883338845,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 174,
+          "tx_hash": "0xa7f29c8dda47d013b6f2de87a747937e206cf2d178014e129f10d69b6152713f",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0x7566e30E4eEc713186441C16794D21834Cb5ee2d",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.621799,
+        "traits": []
+      },
+      {
+        "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/5353",
+        "token_id": "5353",
+        "address": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+        "media_url": "https://lh3.googleusercontent.com/UX0bRIwHGi_93MAQWD5vid0rGMj-ZPWcF9RIdDV6pQX2zNl4F0V8ndUNF8ZyvoRRSWNy_-Z7o9PHmzu-ZIq6nsiaCxHgJRZNcjSF1m4",
+        "name": null,
+        "collection": {
+          "id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "name": "Bored Ape Kennel Club",
+          "image_url": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "8929448436000000000",
+          "usd": 13956.6,
+          "mape": "480.46",
+          "change": {
+            "wei_1d": -10.15,
+            "wei_7d": 14.4,
+            "wei_30d": 5.57,
+            "usd_1d": -8.46,
+            "usd_7d": 25.01,
+            "usd_30d": 7.71
+          }
+        },
+        "last_sale": {
+          "asset_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623/5353",
+          "timestamp": 1647801200,
+          "collection_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+          "wei": "10750000000000000000",
+          "usd": 20357.72831503881,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 508,
+          "tx_hash": "0xac929b6d67e04b9ce6f9cd6e4e019afff2035a3013bf1e290e9043ad375265c1",
+          "to_address": "0x4C8FF4E357C6626749559184C7877bDbC4D6815E",
+          "from_address": "0xEAE286DB56FBaAa92Ef13A3Af2044b3ca3F89593",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.203882,
+        "traits": [
+          {
+            "type": "Back",
+            "value": "Beer Kegs"
+          },
+          {
+            "type": "Fur",
+            "value": "Radioactive"
+          },
+          {
+            "type": "Eyes",
+            "value": "Pilot Goggles"
+          },
+          {
+            "type": "Background",
+            "value": "Outhouse"
+          },
+          {
+            "type": "Neck",
+            "value": "Pink Collar"
+          },
+          {
+            "type": "Mouth",
+            "value": "Smiling"
+          }
+        ]
+      },
+      {
+        "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/21207",
+        "token_id": "21207",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "media_url": "https://img.seadn.io/files/a06b3de5f0a4e8e59d258f51e6662542.jpg?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+          "name": "Otherdeed for Otherside",
+          "image_url": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "2021251525000000000",
+          "usd": 3159.19,
+          "mape": "1210",
+          "change": {
+            "wei_1d": -2.36,
+            "wei_7d": 22.49,
+            "wei_30d": -11.69,
+            "usd_1d": -0.52,
+            "usd_7d": 33.85,
+            "usd_30d": -9.9
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/16960",
+        "token_id": "16960",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "media_url": "https://img.seadn.io/files/adf5fad128d709c59746716052ceaceb.png?h=1024&w=1024&auto=format",
+        "name": null,
+        "collection": {
+          "id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "name": "Mutant Ape Yacht Club",
+          "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "13683609891000000000",
+          "usd": 21387.28,
+          "mape": "8.01",
+          "change": {
+            "wei_1d": 3.46,
+            "wei_7d": -1.06,
+            "wei_30d": -15.03,
+            "usd_1d": 5.41,
+            "usd_7d": 8.11,
+            "usd_30d": -13.31
+          }
+        },
+        "last_sale": {
+          "asset_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6/16960",
+          "timestamp": 1647414981,
+          "collection_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+          "wei": "20100000000000000000",
+          "usd": 38064.21759370047,
+          "market_name": null,
+          "currency_id": "ETH",
+          "quantity": 1,
+          "log_index": 213,
+          "tx_hash": "0x5b74aef0bbd0faedd87b36ea9b08cd7585de5eae4b70be4ef7d194d9185b194e",
+          "to_address": "0xB78D9c405Dc594fd83710489aDD09117E2433Dd6",
+          "from_address": "0x02845a5B76BD69328cc8b988dd8119A450bef90b",
+          "type": "SALE"
+        },
+        "ask": null,
+        "last_sale_appraisal_relative_delta": -0.468911,
+        "traits": [
+          {
+            "type": "Hat",
+            "value": "M1 Cowboy Hat"
+          },
+          {
+            "type": "Fur",
+            "value": "M1 Blue"
+          },
+          {
+            "type": "Mouth",
+            "value": "M1 Bored"
+          },
+          {
+            "type": "Clothes",
+            "value": "M1 Guayabera"
+          },
+          {
+            "type": "Eyes",
+            "value": "M1 Crazy"
+          },
+          {
+            "type": "Background",
+            "value": "M1 Purple"
+          }
+        ]
+      },
+      {
+        "id": "0x318c2cccadd1b0fba584997ce2b4f64556157f0f/621",
+        "token_id": "621",
+        "address": "0x318c2cccadd1b0fba584997ce2b4f64556157f0f",
+        "media_url": "http://bwvc-app-kcvhl.ondigitalocean.app/hidden.gif",
+        "name": "Bored Weird Vitalik Club",
+        "collection": {
+          "id": "0x318c2cccadd1b0fba584997ce2b4f64556157f0f",
+          "name": "Bored Weird Vitalik Club",
+          "image_url": "https://lh3.googleusercontent.com/cHKyWpd-_JhGoMSqBcPRuDLi6-ysG0DAB46ruJSA_1sTs0drmTqqTe2v2av0q6hrVwyc38LwWMk10iceRRboqAwwcbwWT9v07F69nA=s120"
+        },
+        "appraisal": {
+          "timestamp": "1662034263",
+          "wei": "7000000000000000",
+          "usd": 10.94,
+          "mape": "11.8",
+          "change": {
+            "wei_1d": 0,
+            "wei_7d": -12.5,
+            "wei_30d": -30,
+            "usd_1d": 1.89,
+            "usd_7d": -4.38,
+            "usd_30d": -28.58
+          }
+        },
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1872",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1871",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1870",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1869",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1868",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1867",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1866",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1865",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1864",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x4204d55d6215378e2f9387e1eebb368bf330f83d/1863",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xc654ea8816d410349c40b62d2665d450e7c225ed/131578",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xc654ea8816d410349c40b62d2665d450e7c225ed/113882",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x473fbdf1a797589df54751816623eb037c71ce27/5286",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x473fbdf1a797589df54751816623eb037c71ce27/3450",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xb163292cb92c9039e5902de29a43df9df8ddd89d/19980",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xb163292cb92c9039e5902de29a43df9df8ddd89d/15867",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xb163292cb92c9039e5902de29a43df9df8ddd89d/12598",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x0fc97013ed57e3b5d738e30f5761e52f43bb9897/57625",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x0fc97013ed57e3b5d738e30f5761e52f43bb9897/5535",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x0fc97013ed57e3b5d738e30f5761e52f43bb9897/31709",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x0fc97013ed57e3b5d738e30f5761e52f43bb9897/11814",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0xae4ca871ff3722d0e1b7045befa77ea43b7e063d/3394",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x82a89f6e13e3ec03dd77ae6598ae6afd211d2c2c/191",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x07187957e1e8877c7da42a89188fe6b0d80a2370/431",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      },
+      {
+        "id": "0x07187957e1e8877c7da42a89188fe6b0d80a2370/216",
+        "token_id": null,
+        "address": null,
+        "media_url": null,
+        "name": null,
+        "collection": {
+          "id": null,
+          "name": null,
+          "image_url": null
+        },
+        "appraisal": null,
+        "last_sale": null,
+        "ask": null,
+        "traits": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+version: '3.6'
+
+services:
+  gmi-service:
+    image: node:16
+    container_name: gmi-service-app
+    user: node
+    env_file: ./.env
+    working_dir: /usr/src/app
+    command: npm run start:dev
+  db:
+    image: postgres:13
+    environment:
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_USER=root
+      - POSTGRES_DB=gmi_db
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres-data:

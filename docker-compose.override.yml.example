@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  commission-service:
+    command: npm run start
+    ports:
+      - '80:3000'
+      - '4090:9229'
+    volumes:
+      - ./app:/usr/src/app
